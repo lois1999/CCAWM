@@ -1,0 +1,2934 @@
+jump o 
+look o around s left s twice x after a run o opposite s left s 
+look o around s left s twice x after a run o around s left s 
+run o left s twice x after a turn o left s twice x 
+run o right x twice x and a look o left s thrice x 
+turn o around s left s after a walk o opposite s left s twice x 
+run o around s right x thrice x and a look o left s twice x 
+walk o right x twice x and a look o opposite s right x twice x 
+look o around s right x and a look o opposite s right x twice x 
+turn o left s and a look o around s right x twice x 
+walk o around s left s after a run o 
+look o opposite s right x twice x after a walk o opposite s left s twice x 
+jump o 
+walk o opposite s left s after a turn o around s left s thrice x 
+jump o 
+walk o around s right x thrice x after a turn o opposite s right x thrice x 
+run o left s thrice x and a turn o right x 
+turn o around s right x thrice x and a turn o opposite s left s twice x 
+run o around s left s thrice x after a turn o around s right x twice x 
+walk o around s left s and a walk o opposite s left s thrice x 
+walk o twice x and a look o opposite s right x twice x 
+walk o after a run o twice x 
+run o opposite s left s thrice x after a run o opposite s left s 
+look o around s left s thrice x and a look o around s right x 
+run o opposite s left s twice x 
+look o left s thrice x and a look o right x thrice x 
+turn o opposite s left s after a walk o 
+walk o opposite s right x thrice x after a walk o right x twice x 
+look o right x thrice x and a look o opposite s left s twice x 
+run o opposite s left s after a turn o opposite s left s thrice x 
+turn o opposite s right x twice x after a run o opposite s right x twice x 
+walk o opposite s right x after a walk o left s twice x 
+walk o opposite s left s twice x and a run o opposite s left s twice x 
+jump o 
+walk o opposite s right x twice x after a turn o around s right x thrice x 
+run o opposite s right x twice x after a walk o twice x 
+walk o around s left s after a walk o around s left s thrice x 
+look o twice x and a look o around s left s 
+run o left s after a run o around s left s 
+walk o after a run o around s left s 
+turn o around s right x after a look o opposite s right x twice x 
+run o left s thrice x after a turn o right x thrice x 
+run o twice x and a look o around s right x thrice x 
+walk o around s right x thrice x after a look o around s left s 
+run o opposite s right x thrice x after a walk o opposite s right x thrice x 
+look o right x twice x after a run o opposite s left s 
+look o opposite s right x thrice x after a look o around s right x 
+walk o around s right x thrice x and a run o opposite s left s 
+look o around s left s and a walk o around s right x 
+walk o opposite s left s after a walk o right x twice x 
+walk o around s right x thrice x and a look o right x twice x 
+run o around s left s and a run o opposite s right x thrice x 
+walk o left s twice x and a run o opposite s right x twice x 
+look o left s thrice x and a walk o around s right x 
+run o opposite s right x after a walk o around s left s 
+walk o around s right x after a look o opposite s right x 
+turn o opposite s left s 
+walk o opposite s right x and a look o around s left s 
+look o left s after a look o around s left s thrice x 
+look o around s right x after a turn o right x twice x 
+look o left s and a walk o around s left s twice x 
+jump o 
+walk o around s left s twice x and a walk o opposite s right x 
+walk o right x thrice x and a walk o around s left s thrice x 
+jump o 
+look o opposite s left s thrice x and a walk o opposite s left s twice x 
+jump o 
+walk o around s right x thrice x and a walk o around s left s thrice x 
+jump o 
+run o left s twice x and a turn o around s right x 
+jump o 
+look o around s right x twice x and a look o opposite s left s twice x 
+look o left s and a look o right x 
+look o left s thrice x after a look o right x thrice x 
+look o around s left s twice x after a run o around s left s thrice x 
+jump o 
+look o opposite s right x after a turn o right x twice x 
+look o right x thrice x and a run o left s 
+turn o opposite s left s after a run o around s left s thrice x 
+look o around s right x after a run o 
+walk o after a walk o right x thrice x 
+walk o around s right x thrice x and a walk o 
+run o around s left s and a look o opposite s left s thrice x 
+run o left s thrice x and a walk o around s right x twice x 
+run o opposite s right x twice x and a run o twice x 
+walk o around s left s thrice x after a look o around s right x 
+run o left s thrice x after a run o opposite s left s twice x 
+run o thrice x and a run o around s left s 
+run o opposite s left s and a run o left s 
+run o opposite s right x twice x after a run o around s right x thrice x 
+look o opposite s left s twice x and a look o right x thrice x 
+look o around s left s thrice x after a walk o left s thrice x 
+run o after a look o left s 
+walk o opposite s left s twice x after a walk o opposite s right x twice x 
+look o left s twice x and a walk o opposite s right x thrice x 
+look o and a turn o around s left s 
+turn o left s and a run o left s thrice x 
+turn o around s right x and a run o opposite s right x 
+look o around s left s thrice x after a look o twice x 
+look o opposite s right x thrice x after a look o left s 
+look o opposite s right x after a look o twice x 
+look o opposite s left s thrice x after a walk o left s thrice x 
+run o opposite s right x and a look o around s left s twice x 
+turn o right x after a run o left s 
+look o right x thrice x after a walk o around s left s twice x 
+look o thrice x and a walk o right x 
+run o left s thrice x after a look o opposite s left s 
+look o around s right x and a run o right x 
+run o right x thrice x after a look o opposite s right x twice x 
+look o thrice x 
+look o right x twice x and a look o right x 
+turn o around s right x thrice x after a turn o left s twice x 
+turn o opposite s left s twice x after a run o around s left s thrice x 
+look o twice x after a walk o 
+turn o left s thrice x after a turn o around s left s thrice x 
+walk o right x after a look o around s right x 
+run o opposite s right x twice x and a run o around s right x thrice x 
+walk o around s left s after a look o right x thrice x 
+turn o right x after a run o around s right x twice x 
+run o right x twice x and a look o around s left s thrice x 
+turn o around s left s twice x after a walk o opposite s right x twice x 
+walk o around s right x after a look o right x thrice x 
+run o left s after a turn o opposite s right x twice x 
+turn o opposite s right x after a look o opposite s left s twice x 
+walk o around s right x and a walk o right x 
+jump o 
+walk o opposite s right x twice x after a turn o opposite s right x thrice x 
+walk o and a turn o around s right x thrice x 
+walk o opposite s left s twice x after a turn o opposite s left s thrice x 
+turn o opposite s right x thrice x and a turn o opposite s left s 
+turn o right x thrice x after a look o right x twice x 
+look o opposite s left s twice x and a turn o around s right x twice x 
+turn o around s right x after a turn o left s 
+turn o opposite s left s after a turn o left s twice x 
+run o around s right x after a turn o right x twice x 
+jump o 
+run o opposite s right x thrice x and a run o around s right x twice x 
+jump o 
+turn o around s right x thrice x and a look o opposite s left s thrice x 
+look o thrice x and a turn o opposite s left s 
+look o left s twice x after a turn o left s thrice x 
+jump o 
+run o left s twice x after a look o left s twice x 
+run o opposite s left s thrice x and a look o around s left s twice x 
+look o left s and a turn o right x twice x 
+run o around s left s twice x and a walk o left s thrice x 
+walk o around s right x after a look o twice x 
+look o opposite s right x twice x after a walk o around s left s twice x 
+look o opposite s right x and a look o left s twice x 
+walk o opposite s left s after a run o around s left s twice x 
+turn o left s thrice x and a run o around s left s 
+run o right x thrice x after a run o around s left s twice x 
+jump o 
+walk o opposite s left s thrice x after a look o around s left s 
+look o after a walk o right x twice x 
+run o around s right x after a look o around s left s thrice x 
+look o right x and a walk o right x 
+turn o opposite s left s thrice x after a turn o right x thrice x 
+run o left s twice x and a look o opposite s right x twice x 
+jump o 
+run o opposite s left s twice x and a walk o 
+turn o opposite s left s thrice x after a walk o left s 
+turn o around s left s and a turn o opposite s left s thrice x 
+walk o opposite s right x thrice x after a look o 
+jump o 
+look o opposite s right x and a turn o opposite s left s 
+turn o right x and a turn o around s left s twice x 
+walk o left s and a look o opposite s right x thrice x 
+run o twice x after a walk o right x twice x 
+jump o 
+walk o opposite s right x and a run o right x 
+turn o right x twice x and a run o opposite s right x 
+jump o 
+run o twice x after a walk o twice x 
+run o opposite s right x twice x after a turn o right x thrice x 
+run o opposite s left s twice x after a run o around s left s thrice x 
+turn o right x and a look o around s left s 
+run o left s twice x and a look o right x thrice x 
+look o left s after a walk o left s twice x 
+jump o 
+walk o right x twice x and a turn o opposite s left s thrice x 
+look o right x thrice x after a walk o right x 
+walk o around s left s after a walk o opposite s left s 
+turn o around s left s twice x after a run o thrice x 
+run o around s left s twice x and a turn o opposite s right x 
+run o opposite s left s after a run o left s twice x 
+walk o twice x 
+run o thrice x after a turn o opposite s right x twice x 
+turn o opposite s left s twice x after a run o opposite s right x thrice x 
+look o around s right x thrice x after a walk o right x 
+jump o 
+turn o right x and a look o opposite s right x thrice x 
+turn o left s thrice x after a look o opposite s left s thrice x 
+turn o opposite s right x and a turn o around s left s thrice x 
+look o opposite s left s thrice x after a run o opposite s right x 
+walk o opposite s left s thrice x after a look o left s 
+walk o around s right x twice x and a run o left s twice x 
+look o thrice x after a look o left s 
+look o right x thrice x after a run o thrice x 
+turn o opposite s left s after a turn o left s 
+look o around s right x thrice x and a walk o opposite s right x thrice x 
+turn o opposite s right x twice x and a walk o around s right x 
+jump o 
+run o right x and a run o opposite s left s thrice x 
+walk o around s right x and a turn o left s twice x 
+look o around s left s after a run o right x twice x 
+turn o left s twice x and a look o around s left s 
+walk o opposite s left s twice x and a turn o opposite s right x twice x 
+turn o right x after a look o 
+walk o around s right x thrice x and a walk o left s thrice x 
+turn o opposite s right x and a look o around s left s 
+look o left s after a look o opposite s right x 
+look o opposite s right x after a look o around s right x 
+run o opposite s left s thrice x and a walk o left s 
+run o left s thrice x and a run o twice x 
+turn o opposite s right x and a walk o around s right x twice x 
+turn o right x twice x and a run o opposite s left s twice x 
+turn o opposite s right x twice x and a run o twice x 
+walk o around s left s thrice x after a turn o right x twice x 
+look o thrice x after a run o left s twice x 
+look o left s after a turn o left s 
+walk o right x thrice x after a walk o right x twice x 
+turn o opposite s left s and a look o left s 
+look o right x thrice x and a run o around s right x thrice x 
+walk o thrice x and a look o left s 
+run o around s right x thrice x and a walk o opposite s left s twice x 
+walk o around s left s thrice x after a run o opposite s left s 
+run o and a turn o opposite s left s 
+run o opposite s left s thrice x after a look o left s twice x 
+turn o opposite s left s and a turn o right x 
+look o opposite s left s after a turn o opposite s right x twice x 
+turn o right x and a run o left s twice x 
+walk o opposite s right x after a look o opposite s right x thrice x 
+run o around s left s and a run o around s right x thrice x 
+run o opposite s left s twice x after a turn o left s thrice x 
+look o thrice x and a run o around s right x twice x 
+walk o right x thrice x after a look o twice x 
+walk o right x twice x after a look o opposite s left s 
+jump o 
+walk o left s twice x and a run o right x thrice x 
+turn o opposite s right x thrice x and a turn o around s left s 
+run o around s right x thrice x after a run o around s left s 
+look o opposite s left s twice x and a look o twice x 
+run o left s and a turn o around s left s twice x 
+run o right x twice x after a look o opposite s right x twice x 
+run o thrice x and a look o opposite s right x thrice x 
+turn o around s right x thrice x and a walk o opposite s right x 
+run o opposite s left s twice x after a turn o opposite s left s 
+run o around s left s thrice x and a turn o opposite s right x twice x 
+run o opposite s right x twice x and a turn o left s thrice x 
+walk o right x twice x and a look o around s right x thrice x 
+walk o opposite s left s and a walk o opposite s left s 
+walk o opposite s right x twice x after a run o around s left s thrice x 
+jump o 
+turn o left s twice x after a turn o around s right x twice x 
+jump o 
+look o twice x and a turn o left s thrice x 
+look o around s right x thrice x after a walk o around s left s 
+look o opposite s left s thrice x after a turn o around s left s twice x 
+jump o 
+turn o left s after a run o right x 
+look o around s left s thrice x and a turn o around s left s thrice x 
+walk o around s right x after a look o opposite s right x twice x 
+jump o 
+walk o left s after a run o around s left s twice x 
+turn o opposite s right x and a turn o around s right x 
+look o thrice x after a walk o around s left s thrice x 
+run o around s left s twice x and a look o opposite s left s thrice x 
+turn o around s left s thrice x after a run o opposite s right x twice x 
+look o thrice x after a run o around s right x 
+walk o opposite s right x thrice x and a look o opposite s left s twice x 
+walk o around s left s and a run o right x thrice x 
+look o twice x after a walk o opposite s right x 
+jump o 
+turn o opposite s right x and a turn o left s 
+walk o around s right x twice x and a run o opposite s right x 
+walk o opposite s left s twice x and a run o around s left s thrice x 
+look o left s twice x after a look o opposite s left s twice x 
+walk o opposite s right x twice x and a look o 
+walk o around s left s thrice x and a turn o opposite s left s thrice x 
+look o around s left s twice x after a walk o opposite s right x thrice x 
+turn o around s left s twice x and a run o left s thrice x 
+look o opposite s left s twice x after a walk o right x 
+turn o opposite s left s thrice x after a look o around s left s 
+walk o left s twice x and a run o opposite s right x 
+turn o opposite s right x twice x and a run o right x twice x 
+run o around s right x after a run o around s left s thrice x 
+turn o around s left s thrice x and a look o around s right x twice x 
+run o right x and a look o 
+look o opposite s left s thrice x and a turn o opposite s right x thrice x 
+walk o left s twice x and a walk o right x 
+look o opposite s left s twice x and a walk o thrice x 
+walk o around s right x after a walk o opposite s left s 
+walk o thrice x and a run o around s right x thrice x 
+walk o around s right x twice x and a run o around s left s twice x 
+run o twice x after a walk o opposite s left s thrice x 
+look o opposite s left s thrice x and a walk o left s thrice x 
+jump o 
+jump o 
+look o left s and a look o around s right x twice x 
+run o right x twice x and a walk o thrice x 
+run o opposite s left s thrice x after a walk o opposite s right x thrice x 
+look o around s right x thrice x and a run o opposite s right x 
+turn o opposite s left s twice x and a walk o twice x 
+run o opposite s right x twice x after a walk o right x 
+jump o 
+turn o opposite s right x twice x after a turn o opposite s left s 
+walk o left s twice x and a look o opposite s left s twice x 
+jump o 
+jump o 
+turn o right x after a walk o right x 
+look o right x twice x after a run o around s right x thrice x 
+run o opposite s right x twice x after a look o around s left s twice x 
+run o opposite s right x after a look o right x 
+turn o right x twice x after a turn o around s left s twice x 
+run o opposite s right x thrice x after a turn o around s left s twice x 
+turn o left s twice x after a turn o around s left s thrice x 
+turn o around s right x thrice x and a look o opposite s right x 
+look o left s and a turn o around s right x 
+turn o around s right x and a walk o right x twice x 
+jump o 
+turn o around s right x thrice x after a run o opposite s left s thrice x 
+look o left s thrice x and a turn o opposite s left s thrice x 
+run o after a walk o left s twice x 
+turn o opposite s left s twice x and a look o around s right x 
+look o right x twice x after a walk o around s left s 
+run o around s right x after a run o around s right x twice x 
+jump o 
+look o around s right x twice x after a walk o around s right x 
+turn o around s left s thrice x after a turn o around s right x thrice x 
+jump o 
+jump o 
+turn o opposite s right x thrice x and a walk o around s right x thrice x 
+look o left s thrice x and a turn o opposite s right x thrice x 
+look o opposite s right x twice x after a look o opposite s right x 
+run o twice x after a walk o opposite s right x twice x 
+walk o opposite s right x thrice x after a run o opposite s right x thrice x 
+turn o opposite s left s thrice x after a walk o around s right x twice x 
+walk o left s thrice x after a run o thrice x 
+look o opposite s right x and a look o around s left s 
+walk o opposite s left s thrice x and a run o around s right x thrice x 
+look o around s left s after a walk o left s thrice x 
+run o opposite s right x twice x and a turn o left s 
+look o and a walk o opposite s left s twice x 
+walk o opposite s left s after a look o opposite s right x twice x 
+look o right x twice x and a look o twice x 
+walk o opposite s right x after a run o opposite s right x 
+look o around s right x after a run o right x twice x 
+walk o opposite s left s thrice x after a walk o around s left s twice x 
+jump o 
+look o right x twice x after a run o around s left s twice x 
+jump o 
+walk o opposite s left s after a look o around s left s 
+walk o right x and a walk o opposite s left s thrice x 
+walk o around s right x and a turn o around s right x 
+run o around s right x after a run o 
+jump o 
+walk o opposite s left s after a run o right x twice x 
+turn o opposite s right x thrice x and a walk o around s left s twice x 
+run o opposite s right x twice x and a walk o around s right x twice x 
+walk o opposite s left s and a look o opposite s left s twice x 
+look o right x twice x after a look o left s thrice x 
+run o right x twice x and a look o opposite s right x thrice x 
+turn o opposite s right x twice x after a turn o opposite s right x twice x 
+look o right x twice x and a run o left s twice x 
+turn o opposite s left s after a run o opposite s right x thrice x 
+turn o around s left s after a walk o right x thrice x 
+turn o opposite s left s after a look o left s twice x 
+turn o right x after a look o around s right x 
+turn o opposite s right x and a run o 
+run o twice x and a look o left s thrice x 
+look o opposite s right x and a run o around s right x twice x 
+run o right x thrice x after a look o left s twice x 
+jump o 
+run o after a run o around s right x twice x 
+run o around s right x thrice x and a run o opposite s right x thrice x 
+turn o left s thrice x after a walk o left s twice x 
+walk o left s and a look o left s thrice x 
+run o opposite s right x after a walk o opposite s left s 
+run o around s right x thrice x and a run o around s right x thrice x 
+walk o right x and a run o opposite s left s thrice x 
+walk o around s left s twice x after a look o opposite s left s thrice x 
+look o opposite s left s twice x after a run o right x twice x 
+look o right x twice x and a run o around s left s 
+run o opposite s right x twice x after a turn o opposite s right x twice x 
+look o right x thrice x and a walk o opposite s left s thrice x 
+jump o 
+walk o left s twice x after a walk o left s thrice x 
+look o around s right x after a walk o left s thrice x 
+walk o left s thrice x after a turn o around s left s thrice x 
+look o after a turn o left s twice x 
+run o right x and a walk o twice x 
+run o opposite s left s thrice x after a run o around s left s twice x 
+walk o opposite s left s thrice x and a walk o right x thrice x 
+run o left s twice x and a run o opposite s right x twice x 
+run o thrice x and a look o left s twice x 
+walk o opposite s right x after a run o opposite s left s twice x 
+walk o around s right x thrice x and a turn o around s right x 
+turn o left s twice x after a look o twice x 
+turn o left s thrice x after a run o around s right x twice x 
+turn o opposite s right x twice x and a look o right x twice x 
+run o thrice x and a run o right x 
+run o opposite s left s after a walk o right x 
+walk o opposite s left s twice x after a turn o left s thrice x 
+look o thrice x and a walk o opposite s right x 
+look o around s right x twice x and a walk o around s left s thrice x 
+run o around s right x and a turn o opposite s left s thrice x 
+run o left s after a run o 
+look o around s left s and a walk o left s 
+walk o around s left s thrice x and a run o opposite s right x thrice x 
+walk o around s right x twice x after a run o around s right x thrice x 
+turn o around s right x thrice x and a look o left s 
+run o right x thrice x and a turn o opposite s left s thrice x 
+walk o right x and a walk o opposite s right x twice x 
+run o left s after a walk o left s 
+look o around s right x and a look o right x thrice x 
+turn o opposite s right x twice x after a turn o opposite s left s twice x 
+walk o left s twice x after a run o around s right x thrice x 
+run o left s twice x after a look o around s right x twice x 
+turn o left s twice x after a walk o opposite s right x thrice x 
+jump o 
+run o around s left s after a run o left s 
+look o twice x and a look o left s thrice x 
+walk o and a look o opposite s right x twice x 
+look o left s twice x and a look o opposite s left s 
+turn o around s left s thrice x and a run o right x twice x 
+look o around s right x and a walk o opposite s right x twice x 
+look o around s left s after a look o opposite s right x thrice x 
+turn o around s left s twice x and a look o opposite s right x 
+run o opposite s left s and a run o 
+look o opposite s right x after a run o around s right x 
+look o around s left s thrice x and a walk o opposite s left s 
+jump o 
+jump o 
+look o thrice x and a turn o around s right x twice x 
+run o around s left s thrice x and a run o around s right x twice x 
+look o around s right x twice x after a turn o around s right x twice x 
+turn o right x after a look o left s thrice x 
+turn o left s thrice x and a turn o around s right x 
+look o opposite s right x after a run o left s twice x 
+run o opposite s left s thrice x and a run o left s 
+turn o around s left s and a look o left s twice x 
+look o right x and a turn o left s twice x 
+look o left s after a walk o around s left s thrice x 
+run o around s left s twice x and a run o opposite s left s thrice x 
+run o around s left s thrice x after a walk o opposite s right x thrice x 
+run o around s left s and a walk o left s thrice x 
+jump o 
+run o around s left s twice x and a turn o right x thrice x 
+walk o around s left s twice x after a turn o around s right x 
+walk o right x after a turn o opposite s right x twice x 
+look o opposite s right x after a walk o right x thrice x 
+look o left s thrice x and a turn o around s right x thrice x 
+look o opposite s right x thrice x and a run o left s thrice x 
+run o right x and a turn o around s right x thrice x 
+turn o right x after a turn o opposite s right x 
+look o around s right x and a turn o opposite s left s 
+run o after a walk o opposite s left s 
+jump o 
+look o thrice x after a walk o around s right x twice x 
+walk o around s right x twice x after a walk o opposite s left s 
+turn o right x thrice x and a run o left s twice x 
+look o around s left s thrice x after a walk o opposite s right x 
+turn o left s twice x after a run o left s twice x 
+look o opposite s left s twice x after a look o right x twice x 
+look o around s left s and a run o thrice x 
+run o opposite s right x after a walk o 
+jump o 
+look o opposite s left s and a run o left s twice x 
+look o around s right x thrice x after a walk o opposite s left s twice x 
+run o after a run o twice x 
+turn o around s right x thrice x after a walk o right x thrice x 
+look o around s left s twice x and a look o opposite s left s thrice x 
+look o around s right x and a run o around s right x 
+look o around s right x and a walk o around s left s 
+run o opposite s right x after a run o around s left s thrice x 
+run o left s after a turn o around s right x twice x 
+run o left s thrice x and a look o around s right x twice x 
+turn o around s right x and a run o around s left s thrice x 
+look o right x after a walk o 
+run o around s left s thrice x after a run o around s right x 
+walk o opposite s right x and a turn o around s left s twice x 
+look o around s right x thrice x after a walk o opposite s right x thrice x 
+run o left s twice x and a run o opposite s right x 
+turn o opposite s left s and a look o opposite s right x thrice x 
+look o right x thrice x after a walk o around s left s thrice x 
+jump o 
+run o right x and a look o opposite s right x twice x 
+walk o opposite s left s after a turn o left s thrice x 
+run o around s right x after a turn o opposite s right x twice x 
+walk o around s left s thrice x after a run o around s left s twice x 
+look o right x twice x and a run o left s thrice x 
+run o opposite s right x thrice x after a walk o left s thrice x 
+jump o 
+run o around s right x and a look o opposite s right x 
+turn o opposite s left s after a run o 
+look o left s twice x and a look o around s right x 
+walk o right x and a look o left s thrice x 
+walk o thrice x and a walk o around s right x thrice x 
+turn o around s left s twice x after a walk o opposite s left s 
+run o opposite s left s twice x after a walk o thrice x 
+walk o around s left s and a look o around s left s thrice x 
+run o left s after a look o opposite s left s 
+run o opposite s left s thrice x 
+turn o around s right x twice x and a look o opposite s right x thrice x 
+walk o opposite s left s twice x and a turn o opposite s left s twice x 
+look o opposite s right x thrice x and a look o left s 
+walk o opposite s left s twice x after a walk o opposite s right x thrice x 
+walk o around s left s after a turn o opposite s right x twice x 
+turn o right x thrice x after a run o 
+walk o opposite s left s thrice x and a look o around s left s twice x 
+run o around s left s thrice x after a run o 
+look o thrice x after a run o right x 
+turn o opposite s left s thrice x after a look o around s left s thrice x 
+walk o right x twice x and a walk o 
+look o opposite s left s twice x after a turn o left s 
+turn o right x twice x and a turn o opposite s left s thrice x 
+turn o left s and a run o left s twice x 
+run o opposite s left s twice x and a walk o thrice x 
+run o around s left s and a walk o right x twice x 
+look o right x after a walk o right x thrice x 
+run o right x twice x after a walk o around s left s 
+run o left s thrice x and a look o thrice x 
+walk o twice x and a run o left s twice x 
+jump o 
+walk o left s thrice x after a turn o opposite s right x thrice x 
+walk o around s left s and a run o right x twice x 
+walk o around s left s thrice x after a turn o opposite s right x thrice x 
+look o after a turn o around s right x twice x 
+jump o 
+walk o right x twice x and a run o around s right x thrice x 
+run o opposite s left s after a look o around s right x 
+jump o 
+walk o right x thrice x and a look o opposite s right x thrice x 
+turn o right x and a walk o opposite s right x twice x 
+look o right x twice x and a turn o opposite s left s thrice x 
+turn o left s twice x after a run o opposite s left s thrice x 
+walk o around s left s thrice x and a turn o left s 
+walk o right x twice x and a turn o around s right x twice x 
+walk o and a look o around s right x thrice x 
+run o opposite s left s thrice x and a look o left s twice x 
+walk o twice x after a look o around s left s twice x 
+walk o around s left s thrice x and a turn o around s left s 
+look o around s right x and a turn o opposite s right x 
+run o opposite s left s thrice x and a look o opposite s left s thrice x 
+walk o opposite s right x and a run o opposite s left s 
+run o around s right x thrice x and a run o 
+jump o 
+walk o opposite s left s and a walk o around s right x 
+turn o around s right x thrice x and a turn o opposite s right x 
+turn o opposite s right x twice x after a turn o left s 
+run o opposite s right x thrice x and a look o opposite s left s thrice x 
+jump o 
+turn o right x thrice x after a look o around s left s twice x 
+look o thrice x and a walk o left s 
+walk o right x twice x and a run o left s thrice x 
+look o opposite s left s twice x and a turn o left s 
+run o left s thrice x after a look o right x thrice x 
+run o around s left s thrice x and a walk o right x thrice x 
+turn o left s after a run o around s right x twice x 
+walk o opposite s left s twice x after a look o opposite s left s thrice x 
+run o left s twice x after a look o opposite s right x twice x 
+run o opposite s left s after a look o left s thrice x 
+walk o opposite s right x twice x after a run o right x 
+walk o opposite s right x and a look o opposite s left s thrice x 
+run o around s right x thrice x after a run o thrice x 
+walk o around s right x twice x after a run o left s 
+look o opposite s left s after a look o opposite s left s twice x 
+run o around s right x and a walk o opposite s left s thrice x 
+look o around s right x thrice x and a run o around s left s thrice x 
+jump o 
+run o twice x after a look o thrice x 
+run o around s right x after a look o left s thrice x 
+turn o right x twice x and a look o opposite s right x thrice x 
+walk o around s right x twice x and a turn o left s 
+look o left s and a turn o right x thrice x 
+look o around s right x after a walk o around s left s thrice x 
+run o around s right x twice x after a turn o left s 
+walk o around s right x and a look o left s thrice x 
+walk o opposite s left s twice x after a look o around s left s thrice x 
+look o thrice x after a walk o opposite s right x thrice x 
+turn o opposite s right x thrice x after a run o opposite s right x twice x 
+look o opposite s right x thrice x after a turn o opposite s left s 
+jump o 
+walk o right x and a look o around s right x twice x 
+run o opposite s left s after a run o around s right x 
+run o left s after a walk o around s left s 
+run o around s left s thrice x after a look o opposite s left s 
+jump o 
+look o opposite s left s twice x and a walk o right x 
+turn o around s left s twice x after a look o opposite s right x thrice x 
+walk o around s left s after a look o twice x 
+walk o right x thrice x after a look o around s left s twice x 
+run o around s right x thrice x after a run o opposite s left s thrice x 
+walk o left s and a look o right x thrice x 
+look o right x and a walk o around s right x thrice x 
+look o after a turn o opposite s right x thrice x 
+turn o left s thrice x 
+look o opposite s right x thrice x and a walk o right x thrice x 
+jump o 
+look o left s thrice x and a turn o left s thrice x 
+run o opposite s right x and a walk o right x twice x 
+jump o 
+turn o around s left s twice x and a turn o right x thrice x 
+look o opposite s left s and a turn o around s left s twice x 
+turn o opposite s right x after a run o right x twice x 
+run o twice x and a run o opposite s right x 
+run o around s right x and a turn o opposite s left s twice x 
+turn o around s left s after a look o opposite s left s twice x 
+run o right x and a look o around s left s 
+run o and a walk o opposite s right x thrice x 
+run o opposite s right x thrice x after a run o around s left s twice x 
+turn o opposite s right x and a run o opposite s right x twice x 
+walk o right x thrice x and a look o around s left s thrice x 
+look o around s left s thrice x after a turn o around s right x twice x 
+run o twice x after a run o right x thrice x 
+run o around s left s after a walk o around s right x 
+look o around s left s thrice x and a turn o right x twice x 
+walk o right x thrice x and a walk o opposite s left s 
+turn o around s left s thrice x and a look o around s left s 
+run o around s left s twice x and a turn o around s left s thrice x 
+jump o 
+walk o around s right x thrice x after a look o right x 
+run o opposite s left s thrice x after a look o around s right x 
+run o opposite s right x thrice x and a walk o right x twice x 
+walk o opposite s right x thrice x after a look o around s left s 
+walk o right x twice x after a run o around s right x thrice x 
+turn o opposite s right x twice x after a turn o opposite s left s thrice x 
+jump o 
+run o left s after a look o opposite s left s thrice x 
+walk o and a look o left s thrice x 
+turn o opposite s right x twice x after a turn o around s left s 
+turn o left s thrice x after a look o thrice x 
+look o left s after a run o opposite s left s twice x 
+walk o left s thrice x and a walk o opposite s right x thrice x 
+turn o around s left s after a walk o right x twice x 
+look o opposite s right x twice x and a run o right x thrice x 
+turn o around s left s and a look o right x 
+walk o around s left s after a run o left s thrice x 
+turn o left s twice x after a turn o opposite s right x 
+run o thrice x after a walk o left s twice x 
+turn o around s left s thrice x and a look o twice x 
+walk o around s right x after a walk o left s 
+run o thrice x after a run o 
+look o around s right x thrice x after a walk o left s thrice x 
+walk o left s and a walk o around s right x 
+run o right x twice x after a turn o around s left s 
+look o right x twice x and a run o around s right x 
+look o around s left s after a look o opposite s right x 
+run o around s left s twice x and a look o opposite s left s twice x 
+look o around s right x twice x and a turn o opposite s right x 
+run o opposite s right x thrice x and a run o around s left s thrice x 
+jump o 
+walk o twice x and a walk o right x twice x 
+look o opposite s right x thrice x and a turn o around s left s twice x 
+jump o 
+walk o opposite s right x twice x and a turn o left s 
+run o around s right x after a walk o around s left s twice x 
+run o left s and a turn o opposite s left s twice x 
+run o twice x and a walk o opposite s right x 
+turn o right x twice x and a turn o left s twice x 
+look o right x and a look o twice x 
+look o around s right x thrice x after a look o opposite s right x twice x 
+walk o after a look o twice x 
+walk o left s after a walk o around s right x twice x 
+walk o and a run o around s left s thrice x 
+walk o opposite s left s after a run o opposite s left s twice x 
+jump o 
+jump o 
+run o thrice x and a run o opposite s right x twice x 
+look o left s thrice x after a walk o around s right x 
+look o opposite s left s after a look o 
+run o around s left s and a run o 
+run o around s right x after a turn o left s thrice x 
+turn o around s right x thrice x after a look o right x thrice x 
+look o around s right x thrice x after a turn o left s 
+run o opposite s left s thrice x and a run o right x twice x 
+walk o opposite s left s thrice x after a run o opposite s left s thrice x 
+run o left s thrice x after a walk o opposite s right x 
+run o right x thrice x and a walk o opposite s left s thrice x 
+jump o 
+walk o opposite s right x twice x and a walk o twice x 
+walk o left s thrice x and a look o around s left s thrice x 
+look o opposite s right x twice x after a look o around s right x 
+walk o left s and a look o opposite s right x 
+turn o left s thrice x after a walk o opposite s left s 
+run o left s after a turn o around s left s 
+run o opposite s left s thrice x after a run o around s right x thrice x 
+run o opposite s right x thrice x and a look o left s twice x 
+run o left s thrice x and a run o opposite s right x 
+run o right x thrice x and a run o right x 
+look o opposite s left s after a walk o opposite s left s thrice x 
+run o around s left s thrice x and a look o right x thrice x 
+turn o left s twice x and a turn o around s right x twice x 
+turn o around s right x twice x after a run o around s left s 
+run o around s right x twice x and a turn o opposite s right x thrice x 
+look o opposite s right x and a run o right x twice x 
+turn o opposite s left s and a walk o around s left s twice x 
+walk o thrice x after a look o opposite s right x thrice x 
+run o twice x after a run o right x twice x 
+look o opposite s right x twice x after a turn o left s twice x 
+turn o left s twice x after a walk o opposite s left s thrice x 
+walk o around s right x and a walk o opposite s right x thrice x 
+run o thrice x and a walk o around s right x twice x 
+jump o 
+walk o around s left s thrice x and a walk o opposite s right x thrice x 
+look o right x thrice x after a run o around s left s thrice x 
+run o around s right x thrice x and a look o around s left s 
+run o around s right x after a turn o around s left s thrice x 
+turn o opposite s right x after a look o 
+run o opposite s right x and a look o left s twice x 
+run o twice x after a turn o opposite s right x twice x 
+run o right x thrice x and a walk o left s twice x 
+look o around s right x thrice x and a look o opposite s left s 
+look o right x and a look o around s left s thrice x 
+turn o around s right x twice x and a run o twice x 
+walk o around s right x thrice x and a walk o around s right x thrice x 
+run o opposite s left s thrice x and a look o right x twice x 
+turn o opposite s left s twice x after a walk o around s left s twice x 
+walk o twice x and a walk o around s right x twice x 
+run o right x after a run o left s thrice x 
+jump o 
+walk o opposite s right x twice x and a run o opposite s right x thrice x 
+turn o around s left s twice x and a turn o opposite s left s thrice x 
+look o opposite s right x thrice x and a look o around s left s 
+run o around s right x after a look o opposite s right x twice x 
+look o around s right x and a run o opposite s left s thrice x 
+look o left s and a turn o opposite s right x thrice x 
+walk o opposite s left s thrice x after a walk o around s left s thrice x 
+turn o opposite s left s twice x after a run o around s right x 
+walk o around s left s twice x and a look o 
+turn o right x thrice x and a walk o around s right x thrice x 
+turn o right x twice x and a run o right x thrice x 
+run o around s left s after a run o right x twice x 
+walk o left s and a look o right x twice x 
+walk o around s right x thrice x after a walk o right x 
+run o left s twice x and a walk o left s thrice x 
+walk o opposite s left s after a look o right x 
+walk o left s twice x after a run o opposite s right x thrice x 
+turn o left s twice x after a walk o around s right x 
+turn o right x and a walk o left s thrice x 
+turn o around s left s thrice x and a look o left s thrice x 
+run o opposite s right x twice x and a look o 
+run o opposite s right x after a walk o opposite s right x twice x 
+look o left s and a look o left s twice x 
+look o opposite s left s twice x after a turn o right x thrice x 
+turn o around s right x and a walk o twice x 
+walk o right x twice x and a run o left s 
+walk o opposite s left s twice x and a look o around s left s twice x 
+run o opposite s right x thrice x and a turn o opposite s right x thrice x 
+look o left s after a run o opposite s left s thrice x 
+look o right x and a walk o around s left s 
+turn o around s left s and a walk o left s twice x 
+run o opposite s left s after a walk o left s twice x 
+run o after a look o thrice x 
+look o twice x after a walk o opposite s right x twice x 
+walk o opposite s right x twice x after a turn o opposite s left s twice x 
+look o around s right x after a turn o right x 
+turn o opposite s right x and a turn o left s twice x 
+walk o left s after a run o opposite s right x twice x 
+look o left s twice x and a turn o right x 
+turn o around s left s twice x after a look o twice x 
+run o right x and a look o right x 
+jump o 
+turn o opposite s right x and a turn o right x thrice x 
+jump o 
+run o opposite s right x twice x after a run o opposite s right x thrice x 
+look o left s after a look o left s thrice x 
+look o around s right x and a run o opposite s left s 
+run o left s thrice x after a walk o around s right x twice x 
+run o opposite s left s thrice x and a walk o around s left s thrice x 
+run o left s thrice x and a turn o around s left s 
+look o opposite s right x thrice x and a look o opposite s right x 
+run o twice x after a look o around s right x twice x 
+look o around s right x twice x after a look o opposite s right x thrice x 
+walk o around s right x and a turn o around s left s 
+run o around s right x twice x and a walk o left s thrice x 
+turn o left s twice x and a run o opposite s left s thrice x 
+walk o around s left s thrice x 
+turn o left s after a turn o around s left s 
+look o left s thrice x and a look o around s right x 
+walk o around s left s thrice x after a look o right x thrice x 
+run o opposite s left s after a look o around s right x twice x 
+jump o 
+look o right x thrice x after a turn o right x 
+turn o around s right x after a walk o around s right x 
+run o around s left s and a look o twice x 
+jump o 
+look o opposite s left s twice x and a run o right x 
+run o opposite s right x thrice x and a walk o opposite s left s 
+jump o 
+run o opposite s right x twice x after a turn o opposite s left s twice x 
+turn o left s twice x after a look o opposite s right x thrice x 
+look o opposite s left s thrice x after a walk o right x thrice x 
+look o left s and a look o opposite s left s twice x 
+walk o around s right x twice x after a look o 
+walk o opposite s left s after a turn o right x 
+turn o around s right x thrice x after a look o around s right x twice x 
+run o around s right x thrice x after a walk o around s left s twice x 
+look o opposite s right x after a run o around s right x thrice x 
+run o left s and a walk o thrice x 
+walk o after a look o around s right x twice x 
+turn o around s right x thrice x after a walk o right x twice x 
+run o left s and a run o twice x 
+run o opposite s left s twice x after a walk o opposite s left s thrice x 
+run o right x thrice x and a look o around s left s thrice x 
+walk o right x thrice x after a run o around s right x thrice x 
+turn o around s left s thrice x after a look o right x thrice x 
+run o left s twice x and a look o around s right x twice x 
+run o around s right x thrice x and a run o opposite s right x 
+walk o right x after a turn o opposite s left s 
+run o and a look o around s left s 
+turn o opposite s right x thrice x after a turn o opposite s right x thrice x 
+look o around s right x thrice x after a walk o left s 
+turn o right x twice x and a turn o opposite s right x 
+look o left s after a look o around s left s 
+jump o 
+look o left s thrice x after a look o opposite s left s thrice x 
+walk o right x after a turn o around s left s thrice x 
+run o right x twice x after a turn o around s right x twice x 
+jump o 
+look o and a run o right x thrice x 
+run o thrice x after a look o left s thrice x 
+walk o around s left s thrice x and a turn o opposite s right x 
+walk o around s left s twice x and a turn o right x thrice x 
+look o opposite s left s and a turn o around s left s 
+look o left s twice x after a run o opposite s left s twice x 
+look o opposite s left s and a run o twice x 
+walk o twice x after a turn o opposite s right x twice x 
+run o opposite s right x twice x after a turn o opposite s right x 
+look o opposite s left s twice x and a look o around s left s 
+run o opposite s left s thrice x and a run o around s right x 
+turn o around s right x thrice x and a look o opposite s left s 
+run o left s twice x after a walk o opposite s left s 
+run o opposite s left s twice x after a run o right x 
+walk o around s left s thrice x and a look o opposite s left s twice x 
+jump o 
+run o left s after a turn o left s thrice x 
+walk o opposite s right x and a walk o opposite s left s twice x 
+look o right x thrice x and a look o around s left s thrice x 
+look o left s and a turn o right x 
+turn o around s right x twice x after a run o right x thrice x 
+run o opposite s left s after a walk o around s left s twice x 
+jump o 
+run o opposite s left s and a walk o opposite s left s 
+run o around s right x and a look o right x thrice x 
+walk o left s and a run o opposite s left s thrice x 
+turn o opposite s right x twice x after a walk o around s right x 
+walk o twice x and a walk o opposite s left s thrice x 
+look o around s left s twice x and a turn o opposite s right x 
+look o and a look o left s twice x 
+turn o opposite s left s twice x after a look o right x 
+turn o around s left s twice x after a walk o around s left s 
+turn o left s twice x and a walk o around s right x 
+jump o 
+look o opposite s left s thrice x and a walk o twice x 
+walk o after a turn o opposite s right x twice x 
+turn o right x and a walk o around s left s 
+run o opposite s left s after a look o around s right x thrice x 
+turn o around s right x twice x and a turn o opposite s left s twice x 
+look o right x thrice x and a look o around s right x 
+look o around s right x and a look o around s right x thrice x 
+look o opposite s right x thrice x and a turn o opposite s right x twice x 
+run o opposite s right x thrice x and a turn o right x twice x 
+turn o left s twice x and a turn o right x thrice x 
+turn o around s right x and a look o opposite s right x twice x 
+run o opposite s left s thrice x and a run o around s right x twice x 
+run o around s left s after a look o opposite s left s thrice x 
+walk o around s left s thrice x after a walk o left s twice x 
+walk o right x thrice x after a look o around s right x thrice x 
+look o opposite s left s and a walk o opposite s right x twice x 
+run o twice x and a walk o right x twice x 
+turn o opposite s right x thrice x and a run o around s left s twice x 
+run o after a turn o left s twice x 
+walk o around s right x thrice x after a look o opposite s right x 
+turn o right x thrice x after a turn o opposite s right x thrice x 
+turn o opposite s right x twice x after a run o 
+run o around s right x and a run o left s 
+walk o right x twice x after a turn o around s right x 
+look o opposite s left s thrice x after a run o left s thrice x 
+look o left s thrice x after a run o around s left s twice x 
+walk o around s left s thrice x after a look o right x twice x 
+run o opposite s right x thrice x and a walk o twice x 
+run o right x twice x after a look o left s thrice x 
+run o around s right x twice x and a run o right x 
+run o twice x and a turn o opposite s left s thrice x 
+turn o right x twice x after a look o opposite s right x twice x 
+walk o left s twice x after a run o around s right x twice x 
+turn o opposite s left s twice x and a walk o right x twice x 
+run o around s left s twice x after a turn o right x 
+turn o around s left s twice x and a turn o left s 
+jump o 
+look o around s left s thrice x and a look o left s 
+run o twice x and a walk o around s right x thrice x 
+look o around s right x and a turn o right x thrice x 
+walk o right x after a turn o right x thrice x 
+walk o right x twice x after a look o left s 
+look o around s right x twice x after a turn o opposite s left s twice x 
+walk o left s after a walk o around s left s 
+walk o opposite s right x thrice x and a turn o opposite s right x 
+walk o around s left s thrice x and a walk o opposite s left s thrice x 
+run o and a walk o around s left s 
+run o around s left s after a walk o opposite s left s twice x 
+turn o opposite s left s after a walk o opposite s left s 
+turn o right x twice x and a look o thrice x 
+run o around s left s thrice x after a run o around s left s thrice x 
+look o around s left s twice x and a walk o left s 
+run o left s thrice x and a run o around s left s thrice x 
+turn o opposite s right x twice x after a run o around s right x twice x 
+turn o around s left s and a look o thrice x 
+look o opposite s right x twice x and a turn o right x 
+run o right x thrice x and a walk o left s 
+walk o twice x and a walk o twice x 
+turn o around s right x twice x and a walk o opposite s left s 
+look o opposite s left s twice x and a run o opposite s left s thrice x 
+run o left s thrice x and a walk o twice x 
+run o around s left s thrice x after a run o around s right x thrice x 
+run o opposite s left s thrice x after a walk o right x twice x 
+walk o around s left s twice x and a look o around s left s twice x 
+run o left s twice x after a turn o around s right x 
+run o thrice x and a look o right x thrice x 
+run o around s right x after a run o opposite s left s thrice x 
+turn o around s left s thrice x after a run o twice x 
+run o left s thrice x and a run o right x twice x 
+run o opposite s left s twice x and a look o around s left s thrice x 
+look o right x thrice x after a run o opposite s right x twice x 
+look o opposite s right x after a look o left s twice x 
+walk o opposite s left s thrice x and a walk o around s left s thrice x 
+turn o right x twice x after a walk o 
+look o twice x and a walk o thrice x 
+walk o right x twice x after a turn o around s left s twice x 
+jump o 
+jump o 
+walk o around s left s twice x and a run o around s right x thrice x 
+turn o opposite s left s thrice x after a walk o right x thrice x 
+run o and a turn o around s right x 
+walk o left s thrice x and a walk o opposite s right x twice x 
+turn o around s left s thrice x and a run o opposite s left s twice x 
+turn o opposite s right x and a walk o around s left s twice x 
+jump o 
+turn o around s left s twice x and a turn o left s thrice x 
+turn o left s and a look o opposite s right x thrice x 
+turn o left s twice x after a run o opposite s right x 
+walk o after a look o around s left s twice x 
+turn o left s after a walk o around s left s 
+walk o around s left s thrice x after a walk o opposite s right x twice x 
+walk o around s left s thrice x after a walk o around s right x thrice x 
+run o opposite s right x twice x after a walk o around s right x twice x 
+look o around s left s after a walk o around s right x thrice x 
+turn o opposite s right x thrice x after a turn o opposite s left s twice x 
+walk o left s thrice x and a walk o right x thrice x 
+look o around s right x thrice x and a look o right x thrice x 
+turn o around s right x thrice x and a run o left s thrice x 
+turn o opposite s left s thrice x after a run o around s right x 
+jump o 
+turn o left s twice x and a look o opposite s left s 
+turn o left s twice x and a run o opposite s right x twice x 
+look o around s left s twice x after a run o twice x 
+turn o around s right x thrice x and a run o around s left s twice x 
+look o opposite s left s thrice x and a turn o around s left s 
+run o around s right x and a run o left s thrice x 
+look o around s right x thrice x after a run o right x 
+look o around s left s twice x after a walk o 
+walk o around s right x after a walk o opposite s right x thrice x 
+turn o right x twice x and a run o around s left s 
+run o opposite s left s thrice x and a run o around s left s twice x 
+look o opposite s right x twice x after a turn o around s left s twice x 
+walk o right x thrice x after a turn o opposite s left s twice x 
+walk o opposite s right x thrice x and a walk o opposite s left s twice x 
+look o around s left s thrice x after a look o opposite s right x thrice x 
+walk o around s left s and a look o right x 
+turn o around s right x after a run o 
+walk o around s left s twice x and a run o left s 
+walk o left s twice x and a turn o around s left s 
+look o around s left s and a walk o opposite s left s twice x 
+jump o 
+run o left s twice x and a turn o right x twice x 
+turn o around s right x after a walk o around s right x thrice x 
+run o around s right x thrice x and a turn o opposite s right x 
+look o thrice x and a run o opposite s right x twice x 
+run o opposite s right x thrice x and a walk o around s left s thrice x 
+jump o 
+run o around s left s and a look o thrice x 
+run o left s and a walk o around s left s twice x 
+look o opposite s left s thrice x and a walk o around s left s thrice x 
+turn o opposite s left s thrice x and a walk o around s right x 
+walk o opposite s left s twice x after a run o left s thrice x 
+run o right x twice x and a look o right x twice x 
+walk o opposite s left s thrice x after a turn o right x 
+look o opposite s right x thrice x and a run o right x twice x 
+walk o around s left s twice x after a turn o opposite s left s thrice x 
+look o opposite s right x twice x and a look o opposite s left s twice x 
+jump o 
+look o left s twice x after a walk o around s right x 
+run o opposite s right x twice x and a look o left s twice x 
+jump o 
+jump o 
+walk o left s twice x after a turn o around s right x twice x 
+walk o opposite s right x twice x and a look o opposite s left s twice x 
+turn o around s left s twice x after a walk o opposite s right x thrice x 
+jump o 
+jump o 
+walk o right x and a walk o 
+walk o around s right x thrice x and a look o around s left s thrice x 
+turn o opposite s right x after a turn o around s left s 
+walk o right x and a walk o opposite s left s twice x 
+walk o around s right x after a run o 
+run o right x after a look o opposite s right x 
+run o opposite s right x after a turn o opposite s right x twice x 
+run o left s thrice x after a run o opposite s right x thrice x 
+turn o around s left s thrice x after a turn o around s left s thrice x 
+turn o right x thrice x and a look o opposite s right x 
+run o left s twice x and a turn o around s left s twice x 
+walk o around s right x twice x after a look o opposite s right x twice x 
+run o opposite s left s twice x after a run o around s left s twice x 
+walk o around s right x thrice x after a walk o 
+run o around s left s after a look o around s left s 
+look o opposite s right x thrice x after a run o opposite s right x thrice x 
+turn o opposite s right x and a turn o around s right x thrice x 
+turn o left s twice x and a look o right x thrice x 
+walk o thrice x after a turn o around s right x 
+turn o opposite s left s twice x after a walk o around s left s 
+run o opposite s left s thrice x after a walk o right x thrice x 
+look o right x after a look o twice x 
+run o opposite s left s thrice x and a walk o left s twice x 
+run o around s left s thrice x after a turn o opposite s right x twice x 
+turn o right x after a look o opposite s left s thrice x 
+turn o around s right x twice x and a turn o around s left s twice x 
+turn o right x and a turn o left s twice x 
+jump o 
+walk o right x thrice x after a look o left s thrice x 
+run o around s left s twice x after a walk o around s left s thrice x 
+run o around s left s twice x after a walk o right x 
+jump o 
+walk o around s right x thrice x after a run o around s right x thrice x 
+look o left s after a run o around s left s twice x 
+run o around s left s thrice x after a walk o left s twice x 
+look o around s right x thrice x after a turn o around s right x thrice x 
+walk o opposite s right x after a walk o around s left s 
+run o around s left s twice x and a turn o right x 
+look o right x twice x after a look o opposite s left s 
+run o left s and a look o thrice x 
+jump o 
+run o left s thrice x and a run o right x thrice x 
+jump o 
+look o left s twice x after a walk o thrice x 
+run o around s left s twice x and a walk o right x 
+walk o left s twice x and a walk o around s right x thrice x 
+turn o right x and a turn o around s left s thrice x 
+walk o thrice x after a look o around s left s 
+run o around s left s twice x and a turn o around s right x thrice x 
+walk o around s right x thrice x after a turn o around s right x 
+walk o left s and a run o right x thrice x 
+turn o around s left s thrice x and a walk o around s right x thrice x 
+turn o left s twice x after a look o left s 
+walk o around s right x twice x and a walk o left s thrice x 
+walk o and a turn o around s left s 
+run o opposite s left s thrice x after a run o thrice x 
+run o opposite s left s twice x and a walk o twice x 
+walk o around s left s twice x after a run o around s left s 
+run o around s right x and a walk o 
+walk o around s right x twice x and a run o right x twice x 
+run o around s right x twice x after a look o around s right x thrice x 
+run o opposite s right x thrice x after a turn o around s right x thrice x 
+run o around s right x twice x and a walk o around s left s twice x 
+run o opposite s left s thrice x and a turn o around s left s twice x 
+look o around s right x thrice x and a turn o around s right x 
+turn o around s left s thrice x and a turn o opposite s left s twice x 
+run o left s after a look o opposite s right x twice x 
+run o right x thrice x after a walk o right x twice x 
+turn o around s left s twice x and a turn o opposite s right x 
+jump o 
+turn o around s left s after a walk o around s right x thrice x 
+walk o right x thrice x after a walk o right x 
+turn o right x and a look o thrice x 
+turn o opposite s left s after a run o opposite s left s twice x 
+walk o left s thrice x and a run o opposite s right x thrice x 
+walk o opposite s left s thrice x after a run o opposite s right x thrice x 
+turn o around s left s after a run o left s twice x 
+run o left s and a turn o left s 
+walk o right x thrice x and a turn o left s twice x 
+walk o opposite s right x thrice x after a turn o around s left s thrice x 
+run o thrice x after a turn o left s 
+walk o opposite s left s twice x after a look o right x thrice x 
+jump o 
+look o around s right x twice x and a walk o opposite s left s 
+run o opposite s right x twice x after a look o around s right x 
+run o around s left s twice x after a walk o opposite s right x 
+jump o 
+walk o right x and a turn o right x 
+turn o left s thrice x and a look o around s right x thrice x 
+run o opposite s left s after a look o around s left s twice x 
+run o thrice x and a run o left s 
+run o left s thrice x after a walk o opposite s right x thrice x 
+look o left s twice x after a walk o around s right x thrice x 
+jump o 
+run o around s right x twice x after a walk o thrice x 
+run o right x twice x after a walk o opposite s left s twice x 
+look o around s left s and a look o around s left s twice x 
+run o twice x and a run o 
+jump o 
+run o left s twice x and a look o around s left s thrice x 
+look o around s right x twice x and a run o around s left s 
+walk o around s left s and a run o opposite s left s 
+turn o opposite s left s twice x after a run o left s twice x 
+look o left s twice x after a look o around s right x thrice x 
+look o left s thrice x and a turn o left s twice x 
+walk o around s right x twice x and a look o thrice x 
+look o left s thrice x and a run o right x thrice x 
+turn o opposite s left s and a walk o around s left s 
+run o around s left s thrice x after a look o thrice x 
+walk o around s left s twice x 
+look o right x twice x and a look o around s right x 
+look o left s twice x after a run o around s left s thrice x 
+turn o opposite s left s and a turn o opposite s left s twice x 
+walk o around s left s twice x and a walk o opposite s right x thrice x 
+jump o 
+run o opposite s right x and a run o opposite s right x 
+run o around s left s twice x and a run o left s thrice x 
+walk o around s left s thrice x and a turn o around s right x twice x 
+run o left s thrice x after a look o around s right x twice x 
+run o twice x after a run o right x 
+run o around s right x twice x and a run o opposite s left s 
+run o thrice x after a turn o opposite s left s thrice x 
+run o opposite s right x thrice x and a turn o around s right x thrice x 
+run o right x after a run o around s right x twice x 
+jump o 
+turn o right x thrice x after a look o opposite s left s twice x 
+run o around s right x thrice x after a walk o left s 
+look o around s left s thrice x after a look o right x thrice x 
+walk o opposite s left s after a walk o right x 
+jump o 
+look o thrice x and a run o opposite s left s thrice x 
+look o around s right x twice x after a walk o around s left s 
+run o around s right x and a look o around s left s 
+walk o opposite s right x twice x after a walk o 
+turn o right x and a look o opposite s right x 
+look o around s right x thrice x after a look o thrice x 
+run o opposite s right x twice x and a look o left s 
+walk o left s and a look o around s left s twice x 
+run o left s twice x after a look o opposite s right x thrice x 
+look o opposite s left s twice x after a run o left s thrice x 
+look o and a look o opposite s right x thrice x 
+look o opposite s right x thrice x and a walk o twice x 
+run o twice x and a run o right x twice x 
+jump o 
+look o right x and a run o right x twice x 
+turn o around s left s and a turn o right x 
+turn o right x after a turn o around s left s thrice x 
+run o around s left s after a walk o opposite s left s thrice x 
+look o thrice x after a turn o around s left s twice x 
+walk o left s after a walk o right x 
+walk o around s left s and a walk o opposite s right x thrice x 
+run o opposite s left s and a look o twice x 
+walk o opposite s right x and a run o left s thrice x 
+walk o left s twice x after a look o around s right x thrice x 
+look o opposite s right x and a run o opposite s left s 
+jump o 
+turn o opposite s left s and a walk o opposite s right x 
+turn o right x after a run o opposite s right x thrice x 
+look o left s thrice x and a run o around s right x twice x 
+jump o 
+jump o 
+walk o around s left s twice x after a look o around s right x twice x 
+walk o right x after a turn o right x 
+run o right x twice x and a walk o 
+walk o right x and a turn o opposite s left s 
+walk o opposite s right x thrice x and a run o opposite s right x 
+look o opposite s right x thrice x after a run o opposite s left s thrice x 
+turn o right x after a turn o left s twice x 
+run o opposite s right x after a turn o opposite s right x 
+walk o left s twice x and a look o opposite s left s thrice x 
+turn o right x twice x 
+run o right x twice x after a walk o right x thrice x 
+turn o around s left s and a look o twice x 
+look o opposite s right x thrice x and a walk o opposite s right x 
+look o left s thrice x after a run o around s right x thrice x 
+look o around s right x twice x after a turn o around s left s thrice x 
+turn o around s left s twice x after a walk o around s right x twice x 
+turn o around s right x and a walk o around s right x twice x 
+look o around s right x and a turn o right x twice x 
+turn o opposite s right x after a look o opposite s right x thrice x 
+look o around s left s after a walk o around s right x twice x 
+look o after a walk o opposite s right x thrice x 
+run o opposite s right x twice x after a run o around s left s 
+look o right x thrice x and a walk o right x 
+turn o around s left s after a walk o around s left s thrice x 
+jump o 
+jump o 
+turn o left s thrice x after a turn o around s right x 
+run o opposite s left s thrice x and a walk o right x thrice x 
+look o opposite s right x twice x and a walk o left s thrice x 
+look o around s right x twice x after a walk o around s left s twice x 
+turn o opposite s left s and a turn o around s right x 
+run o left s twice x after a look o 
+look o opposite s left s and a turn o around s right x twice x 
+turn o right x thrice x after a look o around s right x twice x 
+run o left s twice x and a run o opposite s left s twice x 
+run o left s thrice x and a run o around s left s twice x 
+look o right x thrice x and a turn o around s left s thrice x 
+walk o thrice x after a run o opposite s left s 
+look o around s left s and a turn o around s left s twice x 
+walk o opposite s left s after a walk o opposite s left s thrice x 
+run o opposite s left s twice x and a look o twice x 
+turn o opposite s left s twice x and a turn o opposite s left s twice x 
+walk o left s twice x and a walk o thrice x 
+turn o left s after a run o around s left s twice x 
+walk o opposite s right x and a look o opposite s right x twice x 
+look o around s left s twice x after a turn o opposite s right x twice x 
+run o around s right x and a turn o opposite s right x thrice x 
+run o opposite s left s thrice x after a look o opposite s right x thrice x 
+run o around s right x twice x after a turn o opposite s left s twice x 
+walk o opposite s left s twice x and a look o around s right x 
+run o opposite s right x twice x and a run o right x twice x 
+run o and a run o opposite s left s 
+run o after a run o 
+look o right x and a turn o right x twice x 
+turn o around s right x thrice x after a walk o around s right x 
+jump o 
+run o left s thrice x and a look o right x twice x 
+look o opposite s right x thrice x after a look o opposite s right x twice x 
+turn o around s right x and a turn o opposite s left s twice x 
+look o right x twice x after a turn o opposite s right x twice x 
+turn o around s left s twice x and a look o right x 
+walk o opposite s right x and a turn o right x 
+run o opposite s left s thrice x and a look o around s right x 
+jump o 
+walk o around s right x after a run o opposite s left s twice x 
+look o around s left s twice x after a run o around s right x 
+walk o right x thrice x after a walk o around s left s thrice x 
+run o thrice x after a turn o opposite s left s 
+look o opposite s right x twice x and a turn o around s left s thrice x 
+run o left s twice x after a run o around s right x thrice x 
+walk o opposite s right x twice x and a turn o opposite s right x twice x 
+run o left s and a run o opposite s left s twice x 
+jump o 
+look o left s after a walk o around s left s twice x 
+turn o right x thrice x and a look o opposite s left s twice x 
+look o left s after a look o 
+run o right x twice x after a look o around s right x twice x 
+look o opposite s right x twice x and a run o around s left s thrice x 
+walk o opposite s right x twice x after a walk o opposite s right x twice x 
+turn o around s right x twice x after a look o around s right x thrice x 
+run o opposite s right x twice x after a run o left s 
+run o opposite s right x thrice x and a run o right x twice x 
+turn o around s right x thrice x after a run o around s left s twice x 
+turn o left s twice x and a look o left s 
+run o opposite s left s twice x and a turn o opposite s left s twice x 
+run o and a run o opposite s right x 
+look o after a look o right x twice x 
+look o right x thrice x and a look o around s right x thrice x 
+walk o left s after a run o twice x 
+run o opposite s right x thrice x after a turn o left s 
+turn o around s right x twice x after a walk o opposite s right x twice x 
+run o opposite s left s thrice x after a run o right x 
+run o around s right x and a turn o opposite s right x twice x 
+walk o opposite s left s after a look o opposite s left s 
+jump o 
+jump o 
+walk o right x and a walk o right x thrice x 
+turn o left s twice x and a walk o opposite s right x twice x 
+run o opposite s left s thrice x after a walk o left s 
+walk o around s left s thrice x after a look o opposite s right x 
+turn o around s left s and a look o opposite s left s twice x 
+turn o left s thrice x and a turn o right x 
+look o after a run o left s twice x 
+run o opposite s right x twice x and a run o around s right x 
+walk o left s and a walk o left s 
+walk o opposite s left s thrice x and a look o opposite s left s thrice x 
+turn o right x thrice x and a walk o left s twice x 
+turn o left s and a turn o around s left s thrice x 
+turn o around s left s after a run o right x 
+walk o right x twice x and a look o right x 
+run o right x thrice x and a run o left s twice x 
+run o opposite s right x and a turn o left s 
+walk o around s left s thrice x and a run o around s right x twice x 
+look o opposite s right x twice x and a walk o opposite s left s 
+walk o around s left s and a look o opposite s left s 
+run o right x and a turn o left s 
+jump o 
+turn o around s right x twice x and a walk o opposite s right x 
+walk o around s right x thrice x after a walk o thrice x 
+look o opposite s right x thrice x and a run o around s right x thrice x 
+look o twice x after a walk o opposite s left s twice x 
+look o opposite s left s twice x after a walk o opposite s right x 
+jump o 
+look o right x after a walk o around s left s twice x 
+walk o left s thrice x after a walk o 
+turn o opposite s right x thrice x and a run o around s right x thrice x 
+walk o opposite s left s twice x and a walk o around s left s thrice x 
+turn o opposite s right x thrice x and a look o left s thrice x 
+turn o left s and a run o around s left s thrice x 
+look o around s right x and a turn o opposite s left s thrice x 
+walk o left s twice x after a turn o right x twice x 
+turn o opposite s left s after a turn o around s right x 
+run o opposite s right x twice x after a run o opposite s left s thrice x 
+run o opposite s left s twice x after a run o left s twice x 
+look o around s left s after a look o right x 
+look o around s left s and a look o around s left s thrice x 
+turn o around s right x after a walk o opposite s left s 
+run o and a look o left s 
+jump o 
+walk o left s after a turn o left s 
+walk o around s right x thrice x after a turn o opposite s left s twice x 
+run o right x twice x after a run o opposite s left s twice x 
+look o opposite s right x thrice x after a look o opposite s left s 
+run o around s right x twice x and a run o around s right x 
+turn o around s right x and a look o opposite s right x thrice x 
+look o around s left s twice x after a walk o opposite s right x twice x 
+jump o 
+run o around s right x thrice x after a look o around s left s thrice x 
+look o opposite s left s twice x after a walk o right x twice x 
+walk o left s thrice x after a turn o around s left s 
+walk o around s right x and a walk o thrice x 
+look o right x thrice x after a look o opposite s right x thrice x 
+run o opposite s right x thrice x after a run o left s 
+turn o left s twice x and a run o left s 
+turn o around s right x thrice x and a look o around s left s thrice x 
+run o thrice x after a look o opposite s right x twice x 
+look o around s left s and a look o around s right x thrice x 
+walk o left s after a run o opposite s right x thrice x 
+walk o left s thrice x after a walk o around s right x twice x 
+run o opposite s left s after a look o opposite s left s twice x 
+walk o left s twice x and a walk o left s twice x 
+look o right x thrice x after a look o opposite s right x twice x 
+look o right x twice x and a look o around s left s thrice x 
+run o after a look o left s thrice x 
+turn o opposite s right x twice x after a walk o twice x 
+look o opposite s left s and a walk o opposite s left s 
+walk o opposite s left s twice x and a turn o around s right x 
+run o around s left s twice x after a run o opposite s right x 
+jump o 
+look o left s and a walk o around s right x thrice x 
+run o after a look o right x twice x 
+walk o around s left s twice x and a look o opposite s left s thrice x 
+jump o 
+look o around s left s twice x and a turn o opposite s right x thrice x 
+turn o opposite s left s twice x after a run o opposite s left s thrice x 
+walk o around s right x twice x and a run o opposite s left s 
+walk o around s right x after a turn o opposite s right x twice x 
+look o right x after a look o right x thrice x 
+walk o left s twice x after a look o around s right x 
+look o left s thrice x after a look o around s left s twice x 
+jump o 
+look o thrice x after a walk o left s 
+look o left s twice x after a walk o opposite s right x 
+walk o and a look o opposite s left s thrice x 
+turn o opposite s right x thrice x and a look o right x twice x 
+jump o 
+look o around s left s and a run o twice x 
+jump o 
+turn o left s thrice x and a walk o left s thrice x 
+look o right x after a run o opposite s right x thrice x 
+jump o 
+turn o opposite s left s thrice x and a run o opposite s right x 
+turn o opposite s right x thrice x and a turn o around s right x 
+walk o around s left s and a run o left s 
+walk o around s right x thrice x after a walk o opposite s right x thrice x 
+look o opposite s right x and a look o around s left s twice x 
+jump o 
+jump o 
+look o right x twice x and a run o right x twice x 
+look o around s right x twice x and a walk o around s right x 
+look o left s twice x and a walk o right x twice x 
+run o opposite s left s after a look o left s twice x 
+look o opposite s left s thrice x after a look o left s twice x 
+look o opposite s right x twice x and a run o thrice x 
+walk o right x after a walk o around s left s 
+look o around s left s thrice x and a look o around s left s thrice x 
+run o left s after a turn o opposite s left s twice x 
+jump o 
+jump o 
+walk o right x twice x after a run o around s left s twice x 
+run o right x thrice x and a walk o right x 
+turn o around s left s and a run o thrice x 
+run o left s thrice x after a walk o around s left s thrice x 
+run o opposite s left s thrice x and a walk o around s right x thrice x 
+look o right x twice x after a turn o around s left s thrice x 
+turn o opposite s right x after a walk o opposite s right x thrice x 
+run o around s right x thrice x after a look o around s right x twice x 
+walk o left s thrice x and a look o opposite s left s thrice x 
+jump o 
+look o around s left s twice x after a look o right x 
+turn o around s right x thrice x and a walk o around s right x 
+turn o right x thrice x after a walk o around s right x thrice x 
+jump o 
+walk o opposite s right x thrice x after a look o left s thrice x 
+look o around s left s thrice x and a walk o left s 
+look o thrice x and a run o right x thrice x 
+turn o opposite s right x twice x and a run o around s left s twice x 
+look o around s left s thrice x after a turn o around s left s 
+look o right x twice x and a walk o opposite s right x thrice x 
+turn o around s left s twice x and a walk o around s right x twice x 
+run o opposite s right x twice x after a turn o right x twice x 
+walk o left s thrice x after a look o opposite s left s twice x 
+jump o 
+walk o opposite s right x twice x after a run o left s thrice x 
+walk o thrice x after a run o right x 
+walk o left s and a look o opposite s left s twice x 
+jump o 
+turn o opposite s left s thrice x after a run o opposite s left s twice x 
+turn o left s and a walk o opposite s right x thrice x 
+run o left s thrice x and a walk o right x thrice x 
+walk o left s thrice x after a look o around s left s twice x 
+jump o 
+look o opposite s right x after a turn o around s right x twice x 
+walk o opposite s left s thrice x after a run o around s left s twice x 
+run o right x thrice x after a walk o around s left s twice x 
+turn o left s after a walk o opposite s right x 
+turn o around s right x twice x after a look o opposite s left s 
+walk o opposite s left s twice x and a walk o around s right x thrice x 
+walk o and a look o around s right x twice x 
+turn o opposite s left s twice x and a turn o around s right x 
+jump o 
+look o left s thrice x and a look o 
+look o around s left s thrice x and a walk o around s left s thrice x 
+walk o around s right x thrice x and a look o opposite s left s 
+look o right x and a turn o opposite s right x thrice x 
+run o opposite s right x twice x after a walk o opposite s right x 
+run o opposite s left s twice x and a run o opposite s left s thrice x 
+look o opposite s right x after a run o twice x 
+run o around s left s thrice x and a run o around s right x 
+turn o right x thrice x and a turn o opposite s right x thrice x 
+turn o around s left s twice x after a turn o left s twice x 
+run o right x after a turn o around s right x 
+look o left s and a turn o opposite s right x 
+run o around s right x thrice x and a walk o left s twice x 
+run o around s right x after a walk o around s left s 
+walk o left s twice x and a run o opposite s left s thrice x 
+walk o after a run o around s right x 
+run o right x thrice x after a walk o 
+walk o opposite s right x thrice x and a run o around s left s 
+look o around s left s after a turn o opposite s right x twice x 
+jump o 
+look o around s right x thrice x after a look o opposite s left s 
+run o opposite s right x twice x and a turn o opposite s right x twice x 
+walk o around s right x and a turn o left s thrice x 
+run o opposite s right x thrice x and a turn o opposite s right x twice x 
+walk o twice x and a walk o opposite s right x twice x 
+look o right x twice x and a walk o right x thrice x 
+look o around s right x twice x and a run o left s 
+run o around s left s and a walk o left s twice x 
+jump o 
+turn o left s twice x and a walk o left s twice x 
+look o right x twice x and a run o right x thrice x 
+look o opposite s left s twice x and a run o right x twice x 
+turn o right x twice x and a run o left s 
+run o right x thrice x after a look o around s left s 
+run o right x twice x and a walk o opposite s right x twice x 
+walk o right x thrice x after a run o opposite s right x twice x 
+run o right x thrice x and a look o twice x 
+turn o left s thrice x after a look o around s left s thrice x 
+look o around s left s twice x and a run o around s right x thrice x 
+walk o opposite s left s after a walk o around s right x 
+walk o opposite s left s after a walk o opposite s left s twice x 
+jump o 
+walk o thrice x and a turn o opposite s left s thrice x 
+walk o opposite s left s after a walk o opposite s left s 
+look o around s right x twice x and a run o left s twice x 
+turn o right x twice x and a run o left s twice x 
+look o opposite s right x and a run o around s left s thrice x 
+run o opposite s left s thrice x after a run o opposite s right x 
+run o twice x and a turn o around s left s thrice x 
+run o around s left s thrice x and a look o around s left s thrice x 
+turn o opposite s right x twice x and a walk o opposite s left s twice x 
+run o opposite s left s twice x after a run o thrice x 
+turn o around s right x thrice x and a walk o opposite s left s twice x 
+run o right x and a run o left s twice x 
+jump o 
+look o and a walk o opposite s right x 
+walk o opposite s right x twice x and a run o left s twice x 
+run o left s thrice x and a turn o left s thrice x 
+run o thrice x after a run o opposite s left s thrice x 
+jump o 
+walk o right x and a run o left s 
+walk o twice x after a run o opposite s left s 
+walk o opposite s right x thrice x after a walk o opposite s right x thrice x 
+look o opposite s left s after a turn o right x thrice x 
+run o around s left s and a run o opposite s left s thrice x 
+turn o opposite s left s thrice x after a run o around s right x twice x 
+walk o opposite s left s after a walk o left s twice x 
+walk o opposite s right x and a run o around s right x 
+look o left s and a run o right x twice x 
+look o left s thrice x after a turn o left s thrice x 
+run o around s left s thrice x after a walk o around s right x twice x 
+walk o opposite s left s twice x and a look o around s right x thrice x 
+jump o 
+look o around s left s after a turn o left s thrice x 
+look o left s twice x after a walk o around s right x twice x 
+jump o 
+run o around s left s thrice x after a look o left s twice x 
+walk o opposite s right x twice x after a walk o opposite s right x 
+look o left s twice x after a look o 
+jump o 
+jump o 
+turn o opposite s right x twice x after a look o opposite s left s twice x 
+look o twice x after a look o around s left s thrice x 
+walk o opposite s left s twice x and a walk o left s thrice x 
+look o around s right x thrice x after a look o around s right x twice x 
+turn o left s twice x and a look o left s thrice x 
+look o around s left s twice x after a walk o opposite s right x 
+turn o around s right x twice x after a walk o opposite s left s twice x 
+walk o left s twice x and a turn o left s thrice x 
+run o right x and a turn o left s twice x 
+turn o opposite s right x twice x after a turn o opposite s right x thrice x 
+run o after a walk o opposite s right x thrice x 
+jump o 
+look o around s right x after a look o opposite s left s twice x 
+run o left s twice x after a look o opposite s left s thrice x 
+run o right x thrice x and a look o left s 
+jump o 
+run o right x twice x and a walk o opposite s right x 
+turn o right x twice x and a turn o left s thrice x 
+jump o 
+walk o after a look o around s right x 
+run o around s left s twice x and a run o around s left s twice x 
+walk o left s twice x after a look o opposite s right x thrice x 
+run o around s left s thrice x after a look o opposite s right x thrice x 
+look o left s twice x after a turn o around s right x twice x 
+turn o left s thrice x and a walk o opposite s left s twice x 
+jump o 
+turn o opposite s right x twice x and a look o around s left s 
+run o opposite s left s and a run o left s twice x 
+run o left s twice x after a walk o opposite s left s twice x 
+look o opposite s left s twice x after a walk o around s right x 
+turn o opposite s right x after a run o opposite s left s twice x 
+walk o around s right x after a look o left s thrice x 
+run o left s and a walk o left s twice x 
+jump o 
+look o left s twice x 
+look o and a walk o right x twice x 
+walk o right x thrice x and a walk o thrice x 
+look o right x and a look o thrice x 
+run o opposite s left s thrice x after a turn o left s twice x 
+run o opposite s right x thrice x 
+turn o right x thrice x after a run o left s thrice x 
+run o around s right x and a walk o right x thrice x 
+run o right x thrice x after a walk o opposite s left s twice x 
+look o opposite s left s thrice x after a look o right x thrice x 
+turn o opposite s left s and a turn o left s thrice x 
+look o left s and a walk o opposite s left s 
+look o right x and a turn o around s right x twice x 
+turn o right x after a look o around s right x thrice x 
+look o opposite s right x after a look o thrice x 
+look o opposite s right x twice x and a look o right x twice x 
+turn o opposite s right x thrice x and a turn o opposite s left s twice x 
+run o right x after a look o left s thrice x 
+walk o around s left s thrice x after a run o left s twice x 
+walk o opposite s right x thrice x after a run o thrice x 
+walk o around s right x after a run o around s right x twice x 
+look o around s left s thrice x after a walk o opposite s left s 
+walk o left s and a look o left s 
+jump o 
+run o right x twice x and a walk o opposite s left s twice x 
+look o right x and a look o right x thrice x 
+jump o 
+run o right x and a turn o left s thrice x 
+turn o around s left s thrice x and a look o right x thrice x 
+turn o right x and a run o opposite s right x twice x 
+walk o left s twice x and a run o around s left s 
+run o right x after a run o around s right x 
+turn o around s right x thrice x after a look o right x 
+turn o left s after a turn o around s left s thrice x 
+jump o 
+walk o opposite s left s twice x after a turn o around s right x thrice x 
+turn o right x twice x after a look o around s left s twice x 
+turn o around s right x thrice x after a turn o opposite s left s twice x 
+look o around s left s thrice x after a look o left s twice x 
+walk o around s left s after a turn o right x 
+run o around s left s and a run o opposite s right x 
+walk o opposite s right x twice x and a turn o around s right x twice x 
+walk o around s right x and a look o twice x 
+look o around s left s and a turn o around s right x 
+walk o opposite s left s thrice x after a run o left s thrice x 
+jump o 
+walk o right x after a walk o 
+look o opposite s right x after a turn o opposite s right x twice x 
+run o opposite s left s thrice x and a run o opposite s right x twice x 
+jump o 
+run o opposite s right x twice x and a walk o opposite s left s twice x 
+turn o right x after a look o around s left s 
+look o left s twice x after a look o right x twice x 
+turn o opposite s left s thrice x and a look o left s thrice x 
+run o around s right x twice x after a run o around s right x 
+turn o around s left s after a run o thrice x 
+look o opposite s left s twice x and a walk o right x thrice x 
+run o opposite s left s and a run o opposite s right x thrice x 
+turn o left s thrice x after a turn o left s twice x 
+jump o 
+walk o left s twice x and a look o opposite s right x thrice x 
+run o around s right x thrice x after a look o right x twice x 
+turn o around s left s thrice x after a look o opposite s left s thrice x 
+turn o around s right x twice x and a look o around s right x thrice x 
+walk o around s right x twice x and a walk o opposite s left s 
+turn o around s right x thrice x after a turn o around s left s thrice x 
+run o opposite s left s and a turn o around s left s 
+turn o opposite s right x after a run o around s left s twice x 
+run o opposite s left s after a look o opposite s right x twice x 
+turn o around s left s twice x and a turn o around s right x twice x 
+walk o left s twice x and a look o around s left s twice x 
+jump o 
+run o around s right x after a look o opposite s left s 
+walk o and a run o left s 
+look o opposite s right x thrice x after a turn o opposite s right x twice x 
+run o left s twice x after a run o opposite s right x twice x 
+look o thrice x after a run o around s left s 
+look o right x twice x and a walk o opposite s right x twice x 
+run o around s right x twice x after a run o opposite s right x thrice x 
+walk o left s thrice x and a run o twice x 
+look o twice x after a turn o around s left s thrice x 
+look o left s thrice x after a walk o 
+walk o around s right x and a walk o around s right x 
+walk o opposite s right x twice x after a run o right x thrice x 
+turn o opposite s right x and a walk o opposite s left s thrice x 
+jump o 
+look o twice x and a turn o around s left s 
+walk o around s left s twice x after a run o right x 
+run o left s and a turn o around s left s thrice x 
+run o right x twice x and a turn o around s left s thrice x 
+run o around s left s twice x and a turn o around s right x twice x 
+look o around s right x twice x after a run o opposite s right x twice x 
+walk o opposite s right x thrice x after a turn o opposite s left s thrice x 
+look o right x twice x after a turn o right x thrice x 
+look o opposite s left s twice x after a run o around s left s 
+jump o 
+turn o left s thrice x after a turn o opposite s left s twice x 
+run o opposite s left s and a walk o opposite s right x twice x 
+run o opposite s left s twice x after a look o around s left s thrice x 
+run o around s right x after a walk o left s thrice x 
+run o opposite s right x twice x and a walk o around s right x thrice x 
+walk o thrice x after a walk o twice x 
+turn o around s left s twice x after a look o opposite s left s thrice x 
+jump o 
+look o opposite s right x thrice x after a look o left s twice x 
+turn o opposite s left s thrice x after a run o right x thrice x 
+turn o around s left s and a walk o opposite s right x twice x 
+run o right x after a turn o right x 
+walk o around s left s twice x after a turn o right x twice x 
+look o opposite s right x thrice x and a turn o opposite s left s thrice x 
+look o around s right x and a look o left s thrice x 
+walk o opposite s right x thrice x and a walk o around s left s twice x 
+jump o 
+run o around s right x twice x and a run o opposite s right x 
+look o around s right x thrice x and a walk o opposite s right x twice x 
+look o opposite s left s thrice x after a look o left s 
+look o twice x after a run o opposite s left s 
+look o opposite s right x twice x after a run o around s right x thrice x 
+turn o left s and a turn o left s 
+walk o opposite s left s thrice x after a walk o right x twice x 
+run o left s thrice x after a walk o left s twice x 
+look o around s left s after a turn o right x 
+run o opposite s left s twice x after a look o left s 
+turn o opposite s left s twice x after a turn o around s left s 
+run o around s left s thrice x and a run o twice x 
+run o around s right x and a walk o left s twice x 
+run o right x thrice x after a look o twice x 
+look o left s after a turn o around s left s 
+jump o 
+look o opposite s left s thrice x and a look o left s thrice x 
+turn o around s right x twice x and a run o around s left s thrice x 
+run o right x and a walk o around s left s twice x 
+look o opposite s right x twice x and a look o opposite s right x twice x 
+turn o opposite s left s and a look o thrice x 
+jump o 
+look o around s right x twice x and a turn o left s thrice x 
+run o right x twice x and a run o opposite s left s twice x 
+turn o opposite s right x thrice x after a look o left s 
+look o around s right x thrice x after a turn o opposite s left s twice x 
+look o opposite s left s thrice x and a run o around s left s twice x 
+run o right x and a walk o right x 
+run o around s right x twice x and a walk o opposite s right x thrice x 
+jump o 
+turn o around s right x twice x after a run o opposite s right x thrice x 
+turn o right x thrice x after a walk o left s 
+look o opposite s right x thrice x after a walk o around s left s thrice x 
+turn o right x thrice x after a walk o opposite s right x 
+jump o 
+walk o and a turn o opposite s right x thrice x 
+run o left s after a walk o 
+look o around s right x twice x and a look o left s twice x 
+jump o 
+walk o around s left s twice x and a walk o 
+run o around s left s twice x and a run o left s 
+run o around s right x thrice x after a walk o around s right x thrice x 
+look o opposite s left s and a walk o thrice x 
+look o around s right x twice x after a run o opposite s left s thrice x 
+jump o 
+run o around s right x thrice x after a walk o opposite s right x 
+look o right x and a run o opposite s right x twice x 
+look o opposite s right x twice x and a run o opposite s right x twice x 
+walk o opposite s left s after a walk o opposite s right x twice x 
+walk o around s left s and a turn o around s right x twice x 
+turn o opposite s left s twice x and a look o right x 
+jump o 
+turn o opposite s right x and a look o opposite s right x twice x 
+run o twice x after a walk o around s right x 
+look o around s right x twice x after a walk o opposite s left s twice x 
+run o around s left s and a walk o 
+look o opposite s left s and a turn o right x 
+walk o around s right x after a run o opposite s right x thrice x 
+walk o around s right x twice x after a walk o thrice x 
+walk o left s thrice x after a run o twice x 
+turn o opposite s right x twice x and a look o around s right x thrice x 
+turn o around s left s and a turn o left s thrice x 
+run o left s twice x and a run o around s right x 
+walk o opposite s left s twice x after a walk o around s right x twice x 
+look o left s thrice x after a turn o around s right x twice x 
+turn o right x and a look o opposite s left s twice x 
+run o right x after a run o around s right x thrice x 
+run o left s thrice x after a look o left s twice x 
+jump o 
+jump o 
+look o around s right x thrice x and a run o right x 
+walk o left s thrice x after a turn o around s right x 
+look o opposite s left s and a run o opposite s left s thrice x 
+turn o right x twice x after a walk o right x thrice x 
+jump o 
+jump o 
+jump o 
+look o and a turn o around s right x thrice x 
+run o right x twice x and a walk o right x 
+turn o opposite s right x twice x after a look o right x 
+turn o opposite s left s thrice x after a walk o around s right x thrice x 
+jump o 
+run o around s left s thrice x after a turn o left s twice x 
+jump o 
+turn o around s left s thrice x and a turn o opposite s right x twice x 
+walk o after a walk o around s right x 
+walk o around s left s twice x after a run o opposite s left s thrice x 
+run o twice x after a run o around s left s twice x 
+walk o opposite s right x after a turn o left s 
+turn o right x twice x after a look o left s twice x 
+jump o 
+walk o after a walk o left s twice x 
+walk o right x and a turn o opposite s right x 
+turn o around s right x after a run o around s right x 
+walk o around s right x after a turn o right x thrice x 
+look o left s thrice x and a walk o around s right x twice x 
+walk o and a run o left s thrice x 
+look o opposite s right x thrice x and a run o opposite s left s twice x 
+run o opposite s left s twice x after a walk o right x twice x 
+turn o opposite s right x twice x and a walk o right x thrice x 
+run o left s after a run o around s right x twice x 
+look o left s twice x and a run o 
+walk o opposite s right x after a walk o thrice x 
+run o right x thrice x after a walk o opposite s left s thrice x 
+look o and a look o opposite s left s twice x 
+jump o 
+turn o right x and a walk o around s left s twice x 
+look o left s after a look o around s right x twice x 
+jump o 
+run o around s left s twice x and a run o left s twice x 
+run o opposite s left s thrice x after a look o left s 
+run o opposite s left s and a look o left s 
+walk o around s left s and a walk o around s right x twice x 
+run o opposite s left s thrice x and a turn o around s right x 
+jump o 
+run o around s left s twice x after a look o around s left s twice x 
+look o thrice x after a look o opposite s right x thrice x 
+run o opposite s left s after a look o opposite s right x 
+jump o 
+look o around s right x after a walk o left s 
+walk o left s thrice x and a turn o around s left s thrice x 
+run o around s right x thrice x after a run o right x thrice x 
+turn o left s thrice x and a look o left s twice x 
+turn o around s left s twice x after a run o right x 
+run o left s twice x and a walk o around s right x thrice x 
+turn o around s right x and a run o twice x 
+jump o 
+walk o after a look o opposite s left s 
+turn o left s after a run o around s left s thrice x 
+run o right x twice x after a run o around s right x twice x 
+look o around s left s twice x after a look o 
+jump o 
+look o opposite s left s and a run o around s left s thrice x 
+run o right x twice x after a look o left s twice x 
+run o right x twice x and a look o around s left s 
+turn o left s thrice x after a turn o around s right x thrice x 
+walk o around s left s twice x after a turn o around s right x twice x 
+jump o 
+run o left s after a walk o right x twice x 
+walk o left s thrice x after a walk o left s twice x 
+run o around s left s thrice x and a walk o around s right x twice x 
+walk o opposite s left s twice x and a turn o opposite s left s thrice x 
+run o opposite s left s thrice x and a run o thrice x 
+run o right x thrice x after a turn o opposite s left s 
+turn o around s right x thrice x and a walk o right x 
+run o opposite s right x twice x and a look o thrice x 
+walk o left s and a run o left s twice x 
+run o around s right x thrice x and a walk o right x twice x 
+jump o 
+walk o opposite s left s thrice x and a turn o around s left s 
+turn o around s left s thrice x and a look o around s left s twice x 
+run o around s left s after a run o left s twice x 
+walk o around s left s and a walk o left s thrice x 
+walk o twice x after a look o opposite s right x twice x 
+walk o opposite s right x twice x and a look o right x thrice x 
+walk o around s right x twice x and a turn o around s left s 
+look o right x and a turn o around s right x thrice x 
+run o around s left s twice x after a run o opposite s right x twice x 
+run o thrice x and a walk o 
+run o around s left s twice x after a turn o around s left s 
+turn o right x after a look o left s 
+walk o around s right x thrice x after a run o left s 
+run o opposite s right x twice x after a walk o right x twice x 
+turn o left s twice x after a look o opposite s left s thrice x 
+look o right x thrice x after a walk o opposite s right x thrice x 
+turn o around s right x thrice x and a look o around s left s 
+turn o right x thrice x and a run o opposite s left s 
+turn o around s right x thrice x after a look o 
+turn o right x thrice x and a walk o opposite s right x twice x 
+turn o around s left s thrice x and a look o opposite s right x thrice x 
+turn o left s and a walk o around s right x twice x 
+look o thrice x after a run o around s left s twice x 
+walk o opposite s left s after a walk o left s thrice x 
+run o opposite s left s thrice x and a turn o around s right x twice x 
+look o around s left s after a turn o opposite s right x 
+walk o opposite s left s and a look o opposite s right x thrice x 
+look o around s right x after a turn o around s right x 
+look o around s left s twice x after a look o right x thrice x 
+run o opposite s left s twice x after a run o around s right x twice x 
+look o around s right x twice x and a look o around s right x thrice x 
+run o right x twice x and a look o opposite s left s thrice x 
+look o right x thrice x and a walk o around s left s 
+walk o opposite s left s thrice x and a turn o opposite s right x thrice x 
+jump o 
+look o left s after a turn o around s left s twice x 
+turn o around s left s thrice x after a look o right x 
+turn o left s thrice x and a run o opposite s right x 
+jump o 
+walk o left s and a look o 
+walk o twice x after a look o left s 
+walk o opposite s right x thrice x and a run o opposite s right x thrice x 
+turn o around s right x thrice x after a run o around s left s thrice x 
+look o left s twice x after a look o around s right x 
+run o around s left s thrice x and a look o around s left s twice x 
+look o opposite s left s and a walk o right x thrice x 
+run o and a walk o 
+walk o around s right x after a turn o opposite s right x thrice x 
+walk o around s right x twice x after a look o around s left s twice x 
+turn o opposite s right x twice x after a turn o left s thrice x 
+run o right x and a look o around s right x thrice x 
+look o thrice x and a look o opposite s right x 
+turn o right x after a turn o around s right x thrice x 
+run o opposite s left s after a run o left s thrice x 
+turn o around s right x thrice x and a turn o opposite s left s 
+look o twice x and a look o opposite s right x thrice x 
+look o after a walk o thrice x 
+run o around s left s twice x after a look o opposite s right x thrice x 
+jump o 
+walk o opposite s right x twice x after a look o right x 
+look o opposite s left s and a run o right x thrice x 
+run o opposite s right x and a run o around s left s 
+run o opposite s left s twice x and a run o opposite s right x thrice x 
+walk o around s right x thrice x and a run o twice x 
+run o opposite s left s and a turn o opposite s left s twice x 
+run o opposite s left s thrice x after a turn o around s right x thrice x 
+run o left s and a look o opposite s left s twice x 
+look o thrice x and a run o around s left s thrice x 
+run o around s left s twice x after a turn o opposite s right x thrice x 
+turn o right x twice x and a walk o right x 
+turn o left s twice x after a look o left s thrice x 
+turn o around s left s twice x after a turn o opposite s right x thrice x 
+look o and a look o right x 
+look o opposite s left s twice x and a run o opposite s right x twice x 
+jump o 
+turn o right x after a walk o opposite s right x thrice x 
+run o around s left s after a run o thrice x 
+turn o opposite s left s and a look o around s left s thrice x 
+walk o left s thrice x after a run o left s thrice x 
+run o around s right x and a run o around s right x thrice x 
+look o right x and a turn o opposite s right x 
+turn o right x thrice x and a turn o around s left s twice x 
+run o opposite s left s twice x after a turn o around s left s twice x 
+run o opposite s left s twice x and a turn o around s right x twice x 
+look o opposite s left s and a turn o left s 
+look o opposite s left s twice x and a look o opposite s left s thrice x 
+run o around s right x twice x after a walk o around s right x twice x 
+run o opposite s right x twice x after a walk o opposite s left s twice x 
+run o opposite s left s and a run o right x 
+walk o opposite s left s twice x and a walk o left s twice x 
+look o right x and a look o around s right x 
+look o opposite s left s thrice x and a walk o right x 
+walk o and a run o opposite s right x 
+walk o opposite s right x twice x and a run o opposite s left s thrice x 
+walk o around s left s after a walk o right x twice x 
+look o opposite s right x twice x after a walk o right x twice x 
+walk o twice x and a walk o opposite s left s twice x 
+walk o thrice x and a look o twice x 
+look o opposite s left s thrice x after a run o around s right x twice x 
+walk o opposite s right x thrice x after a look o opposite s left s twice x 
+jump o 
+walk o opposite s right x twice x after a look o right x twice x 
+look o left s thrice x and a run o 
+look o around s left s twice x after a turn o opposite s right x 
+jump o 
+turn o around s left s twice x after a walk o twice x 
+run o thrice x after a run o around s left s thrice x 
+run o right x thrice x after a turn o opposite s right x thrice x 
+jump o 
+turn o left s thrice x and a turn o around s right x thrice x 
+run o thrice x and a look o thrice x 
+run o left s and a walk o 
+run o around s left s twice x after a walk o twice x 
+look o opposite s right x twice x after a look o left s twice x 
+run o left s twice x and a walk o opposite s left s twice x 
+turn o right x twice x after a walk o around s right x 
+walk o around s right x and a run o around s right x 
+run o opposite s left s thrice x after a run o left s twice x 
+run o twice x after a run o around s left s thrice x 
+run o after a walk o around s left s twice x 
+walk o around s left s and a run o opposite s right x 
+turn o left s twice x after a turn o opposite s left s twice x 
+look o right x and a look o opposite s left s twice x 
+walk o opposite s left s and a walk o twice x 
+look o left s and a run o opposite s right x thrice x 
+look o opposite s right x twice x after a walk o left s twice x 
+jump o 
+run o opposite s right x thrice x and a look o around s left s twice x 
+run o around s right x twice x and a walk o around s right x twice x 
+run o around s right x thrice x after a walk o twice x 
+look o left s and a run o left s thrice x 
+run o around s right x and a run o right x 
+look o opposite s right x after a look o right x twice x 
+walk o opposite s left s thrice x and a turn o around s right x thrice x 
+jump o 
+walk o thrice x after a turn o opposite s left s thrice x 
+run o right x thrice x after a run o opposite s left s twice x 
+walk o twice x and a look o right x 
+walk o around s left s twice x after a look o 
+walk o right x thrice x after a run o right x 
+look o twice x after a look o around s left s 
+turn o around s left s after a turn o opposite s left s 
+turn o around s right x twice x and a walk o around s left s twice x 
+look o opposite s right x twice x after a run o twice x 
+turn o around s right x thrice x after a walk o left s twice x 
+look o around s left s twice x and a turn o right x thrice x 
+run o opposite s left s after a run o right x thrice x 
+turn o left s twice x and a run o opposite s right x thrice x 
+walk o around s right x twice x after a turn o opposite s left s thrice x 
+run o around s left s twice x and a turn o left s twice x 
+run o left s thrice x and a look o around s left s 
+run o left s after a look o 
+look o opposite s right x and a look o opposite s left s 
+walk o opposite s right x thrice x and a walk o around s left s 
+jump o 
+turn o around s left s twice x after a walk o around s right x thrice x 
+look o opposite s left s after a walk o right x twice x 
+turn o opposite s left s thrice x and a turn o around s right x twice x 
+look o opposite s right x thrice x after a walk o 
+look o opposite s right x thrice x after a walk o opposite s right x thrice x 
+run o opposite s right x twice x after a run o 
+jump o 
+walk o right x after a turn o left s twice x 
+look o opposite s left s after a look o opposite s right x twice x 
+walk o thrice x and a turn o right x 
+walk o around s right x thrice x and a look o opposite s right x twice x 
+turn o opposite s right x thrice x and a walk o opposite s left s 
+jump o 
+jump o 
+walk o thrice x and a turn o left s thrice x 
+walk o around s right x twice x after a run o around s left s 
+look o left s twice x and a run o opposite s right x thrice x 
+look o left s thrice x after a look o twice x 
+turn o around s left s twice x and a look o opposite s left s twice x 
+turn o right x twice x after a run o around s left s twice x 
+run o opposite s left s thrice x and a run o left s thrice x 
+turn o opposite s left s and a walk o opposite s right x twice x 
+walk o opposite s left s after a look o opposite s left s thrice x 
+walk o left s thrice x after a look o around s left s 
+turn o right x after a turn o around s left s 
+run o opposite s right x and a walk o around s right x thrice x 
+look o around s right x after a run o around s left s twice x 
+walk o and a look o 
+walk o around s left s thrice x and a look o left s thrice x 
+turn o around s left s thrice x after a look o around s left s thrice x 
+run o around s left s and a run o around s right x 
+walk o around s right x twice x and a turn o around s right x 
+turn o right x twice x after a look o around s right x twice x 
+look o around s right x twice x after a look o left s 
+turn o around s left s and a walk o right x twice x 
+look o and a look o left s thrice x 
+turn o left s twice x and a turn o left s twice x 
+turn o around s left s twice x after a walk o right x 
+run o opposite s left s twice x and a look o opposite s right x 
+turn o opposite s left s twice x and a turn o opposite s right x twice x 
+turn o around s left s after a turn o opposite s left s thrice x 
+turn o opposite s left s thrice x after a turn o around s right x 
+turn o opposite s right x and a run o opposite s right x thrice x 
+walk o twice x after a walk o opposite s right x thrice x 
+turn o around s left s twice x and a walk o 
+walk o left s twice x after a run o around s left s 
+turn o right x and a run o opposite s right x thrice x 
+walk o right x thrice x and a turn o opposite s right x 
+run o right x thrice x after a turn o around s right x thrice x 
+walk o opposite s left s thrice x and a look o around s right x 
+look o around s left s after a run o around s left s thrice x 
+look o around s left s thrice x and a look o opposite s right x 
+walk o right x thrice x after a walk o opposite s right x 
+walk o opposite s left s twice x after a look o opposite s right x thrice x 
+walk o left s thrice x and a look o opposite s right x 
+walk o around s right x after a run o around s right x thrice x 
+run o thrice x after a look o thrice x 
+run o around s left s twice x after a run o right x 
+look o around s left s twice x and a walk o opposite s left s twice x 
+run o opposite s left s thrice x and a look o left s 
+run o opposite s left s twice x after a look o around s right x twice x 
+walk o opposite s right x after a look o around s left s twice x 
+jump o 
+jump o 
+run o right x twice x and a run o opposite s right x 
+look o after a turn o around s right x thrice x 
+run o opposite s left s twice x and a look o around s left s 
+walk o around s right x twice x after a look o opposite s right x 
+walk o around s right x after a run o opposite s left s thrice x 
+turn o left s twice x and a turn o opposite s right x thrice x 
+run o after a run o around s right x 
+run o around s left s after a look o opposite s right x thrice x 
+look o twice x after a walk o right x 
+look o opposite s left s after a turn o opposite s right x 
+walk o opposite s left s thrice x and a run o left s 
+jump o 
+turn o opposite s left s after a turn o left s thrice x 
+look o thrice x after a turn o opposite s right x thrice x 
+turn o around s right x thrice x after a walk o right x 
+turn o around s left s twice x after a turn o opposite s left s thrice x 
+run o opposite s right x thrice x after a look o opposite s left s 
+look o around s right x twice x after a turn o around s left s 
+walk o opposite s left s thrice x after a turn o left s 
+look o after a run o right x twice x 
+look o around s right x thrice x and a run o right x thrice x 
+look o around s right x after a walk o opposite s right x thrice x 
+jump o 
+look o left s thrice x and a run o around s right x 
+jump o 
+jump o 
+look o around s right x twice x after a run o around s right x 
+walk o opposite s right x twice x 
+run o left s and a run o left s 
+walk o around s left s thrice x and a turn o right x twice x 
+walk o around s right x after a walk o around s right x 
+jump o 
+turn o around s right x thrice x and a run o left s twice x 
+run o right x twice x and a turn o left s thrice x 
+turn o around s right x thrice x and a look o left s thrice x 
+jump o 
+look o around s left s twice x and a look o left s twice x 
+jump o 
+turn o around s left s thrice x after a walk o around s left s thrice x 
+look o around s left s thrice x after a walk o around s right x 
+turn o opposite s right x after a turn o right x 
+run o around s left s and a run o around s left s 
+walk o left s twice x and a look o twice x 
+walk o opposite s left s twice x after a walk o left s 
+run o opposite s right x after a turn o opposite s left s 
+look o right x and a run o right x 
+look o opposite s right x thrice x after a turn o right x twice x 
+look o right x thrice x and a walk o left s twice x 
+turn o opposite s left s twice x and a turn o around s left s thrice x 
+look o opposite s right x thrice x and a turn o opposite s right x thrice x 
+turn o around s right x and a turn o opposite s right x thrice x 
+turn o opposite s left s twice x after a run o right x twice x 
+run o left s after a turn o opposite s right x 
+look o twice x and a walk o twice x 
+walk o thrice x after a walk o opposite s left s twice x 
+run o opposite s right x twice x after a look o opposite s left s twice x 
+run o right x after a look o right x thrice x 
+walk o around s left s and a walk o opposite s right x twice x 
+walk o around s right x twice x after a look o opposite s left s 
+run o and a look o right x twice x 
+turn o left s twice x after a look o opposite s right x 
+turn o around s right x thrice x after a walk o around s left s thrice x 
+look o and a run o around s right x thrice x 
+walk o around s right x twice x and a turn o around s left s twice x 
+walk o around s right x thrice x and a walk o left s twice x 
+run o right x twice x after a run o right x thrice x 
+look o twice x and a run o right x twice x 
+walk o twice x and a run o 
+walk o around s right x thrice x after a turn o around s left s twice x 
+walk o right x thrice x after a look o opposite s left s twice x 
+turn o around s right x thrice x and a walk o right x thrice x 
+look o opposite s left s thrice x and a turn o right x thrice x 
+run o left s thrice x and a look o left s 
+look o twice x after a walk o right x twice x 
+look o opposite s left s and a run o opposite s right x thrice x 
+turn o right x twice x and a walk o right x twice x 
+run o opposite s left s after a walk o around s left s thrice x 
+run o left s thrice x after a walk o right x twice x 
+walk o around s right x twice x and a turn o opposite s right x 
+jump o 
+run o opposite s left s after a run o around s left s 
+walk o right x thrice x and a look o twice x 
+walk o around s left s after a walk o thrice x 
+walk o opposite s left s twice x and a walk o opposite s right x 
+look o and a turn o left s twice x 
+run o left s twice x and a turn o left s twice x 
+turn o right x twice x after a run o right x thrice x 
+walk o opposite s right x thrice x after a walk o around s left s 
+turn o around s right x after a walk o 
+turn o around s left s thrice x and a turn o left s twice x 
+turn o opposite s right x thrice x and a run o around s right x 
+walk o left s after a walk o opposite s left s thrice x 
+look o left s and a run o around s left s 
+look o around s right x twice x and a walk o right x thrice x 
+look o opposite s left s thrice x and a turn o left s thrice x 
+walk o twice x after a run o around s right x 
+run o opposite s left s after a look o 
+walk o opposite s right x thrice x and a walk o opposite s left s 
+turn o opposite s right x twice x and a walk o around s right x thrice x 
+run o opposite s left s twice x and a run o thrice x 
+look o left s twice x after a look o opposite s right x twice x 
+look o around s left s thrice x after a run o around s left s 
+turn o opposite s left s thrice x after a look o right x 
+walk o around s left s and a run o around s right x thrice x 
+walk o opposite s right x thrice x after a look o around s left s twice x 
+look o opposite s right x after a look o around s left s twice x 
+run o around s right x and a walk o right x 
+look o around s left s after a walk o right x 
+look o twice x after a walk o around s left s twice x 
+turn o around s left s and a turn o around s left s thrice x 
+turn o opposite s left s thrice x after a turn o opposite s left s twice x 
+run o opposite s left s after a turn o left s 
+walk o left s thrice x and a run o left s 
+walk o opposite s left s and a turn o around s right x twice x 
+walk o around s left s twice x after a run o twice x 
+turn o opposite s left s thrice x and a look o thrice x 
+look o around s left s twice x and a look o left s 
+walk o left s thrice x after a look o opposite s right x thrice x 
+walk o opposite s right x thrice x and a look o right x twice x 
+look o around s right x thrice x and a run o left s twice x 
+look o opposite s right x twice x and a walk o opposite s left s thrice x 
+look o opposite s left s thrice x and a run o opposite s right x twice x 
+look o opposite s right x twice x and a walk o right x twice x 
+run o opposite s right x after a walk o around s right x twice x 
+turn o opposite s left s twice x and a run o around s right x 
+walk o right x and a run o around s left s thrice x 
+walk o left s twice x after a run o around s left s twice x 
+turn o around s left s thrice x and a run o opposite s right x 
+look o left s thrice x after a walk o right x 
+run o twice x and a look o right x thrice x 
+jump o 
+look o opposite s left s thrice x and a run o left s thrice x 
+turn o left s twice x after a turn o right x 
+turn o opposite s right x thrice x and a run o right x thrice x 
+walk o around s left s twice x and a look o around s right x 
+look o opposite s left s and a walk o opposite s left s twice x 
+look o left s twice x after a walk o around s left s thrice x 
+turn o opposite s right x after a turn o around s left s thrice x 
+turn o around s right x twice x and a walk o opposite s left s thrice x 
+run o opposite s left s after a look o right x twice x 
+look o left s twice x and a walk o 
+turn o around s left s thrice x and a walk o thrice x 
+walk o left s twice x and a walk o left s thrice x 
+walk o left s and a look o opposite s left s thrice x 
+walk o around s right x after a walk o opposite s left s twice x 
+run o opposite s right x thrice x and a walk o around s right x thrice x 
+walk o opposite s right x thrice x and a walk o opposite s right x thrice x 
+turn o opposite s right x and a look o around s left s thrice x 
+look o twice x and a run o opposite s left s twice x 
+turn o left s and a run o thrice x 
+jump o 
+turn o opposite s left s and a turn o opposite s right x 
+run o around s left s after a run o opposite s right x 
+run o around s right x twice x and a walk o 
+run o opposite s left s twice x and a run o right x 
+turn o around s left s twice x 
+look o after a run o thrice x 
+walk o twice x and a turn o opposite s left s thrice x 
+turn o right x thrice x after a run o opposite s right x thrice x 
+walk o opposite s right x and a run o around s right x thrice x 
+jump o 
+run o opposite s right x thrice x after a run o around s left s thrice x 
+run o left s after a turn o right x twice x 
+turn o around s left s twice x and a walk o around s right x 
+turn o around s right x twice x and a walk o around s left s 
+look o opposite s left s thrice x after a run o opposite s right x thrice x 
+run o opposite s left s twice x after a walk o around s right x twice x 
+walk o opposite s left s after a walk o around s left s 
+jump o 
+turn o around s left s and a run o twice x 
+walk o right x twice x and a look o opposite s right x thrice x 
+walk o around s left s twice x and a run o left s twice x 
+walk o thrice x and a run o thrice x 
+look o around s right x twice x and a run o 
+run o around s right x after a run o opposite s right x twice x 
+look o around s left s after a walk o twice x 
+walk o around s left s thrice x and a run o thrice x 
+walk o left s and a run o around s left s thrice x 
+walk o left s twice x and a walk o around s right x 
+run o around s left s twice x and a run o opposite s right x 
+jump o 
+turn o opposite s left s twice x after a walk o right x thrice x 
+walk o opposite s right x thrice x and a run o around s right x thrice x 
+look o left s thrice x and a look o around s right x twice x 
+walk o around s right x thrice x after a run o around s right x twice x 
+look o left s twice x after a walk o opposite s right x twice x 
+look o around s right x after a turn o right x thrice x 
+turn o left s thrice x and a look o around s right x 
+look o left s thrice x and a turn o opposite s left s twice x 
+run o opposite s right x thrice x after a run o twice x 
+run o opposite s left s twice x after a turn o right x thrice x 
+look o opposite s right x thrice x and a look o left s twice x 
+walk o left s twice x after a look o around s left s 
+run o opposite s left s and a turn o around s right x 
+turn o left s twice x after a run o right x twice x 
+run o twice x and a run o around s left s 
+run o opposite s left s after a walk o right x twice x 
+look o left s twice x after a turn o around s right x 
+run o around s left s twice x after a turn o left s 
+look o right x after a look o left s twice x 
+turn o right x and a run o opposite s left s 
+run o opposite s left s twice x and a walk o around s left s 
+run o opposite s left s thrice x after a run o right x thrice x 
+walk o twice x and a run o opposite s right x twice x 
+turn o around s left s and a run o right x twice x 
+turn o right x and a run o 
+look o opposite s left s thrice x after a turn o opposite s right x thrice x 
+walk o left s thrice x and a turn o right x thrice x 
+run o right x after a run o opposite s left s thrice x 
+walk o right x thrice x after a run o left s twice x 
+turn o opposite s right x twice x after a run o thrice x 
+run o opposite s right x thrice x and a run o around s right x 
+jump o 
+turn o around s left s thrice x after a turn o opposite s left s 
+run o around s right x thrice x after a look o opposite s left s twice x 
+run o thrice x and a look o left s 
+jump o 
+run o around s left s thrice x and a look o around s right x 
+walk o left s thrice x and a turn o around s right x 
+turn o opposite s left s twice x and a turn o right x thrice x 
+run o around s right x after a walk o opposite s right x 
+jump o 
+run o opposite s right x twice x after a turn o around s right x 
+run o around s right x twice x and a look o opposite s left s 
+turn o opposite s right x twice x and a run o opposite s right x 
+run o opposite s right x twice x after a turn o around s right x thrice x 
+run o twice x and a look o around s left s 
+look o around s left s thrice x and a look o around s right x twice x 
+look o right x and a run o 
+walk o twice x after a walk o right x thrice x 
+turn o opposite s left s thrice x after a turn o opposite s right x thrice x 
+walk o around s left s twice x after a turn o around s right x thrice x 
+run o around s right x twice x after a walk o right x twice x 
+turn o left s twice x and a look o opposite s left s thrice x 
+look o and a turn o right x thrice x 
+run o left s thrice x after a walk o twice x 
+turn o around s left s and a look o opposite s right x 
+walk o opposite s right x thrice x after a run o right x thrice x 
+turn o opposite s left s and a walk o around s right x 
+walk o left s thrice x after a look o right x twice x 
+turn o around s left s thrice x after a turn o opposite s left s thrice x 
+run o opposite s right x thrice x and a walk o opposite s left s twice x 
+run o opposite s left s twice x after a walk o left s thrice x 
+look o right x twice x after a walk o 
+turn o opposite s right x twice x after a walk o opposite s left s twice x 
+turn o around s right x and a look o right x 
+walk o opposite s right x thrice x after a look o left s 
+jump o 
+look o opposite s left s and a look o right x twice x 
+run o opposite s right x thrice x after a run o thrice x 
+look o thrice x and a turn o opposite s right x 
+look o around s left s and a turn o opposite s right x thrice x 
+walk o left s twice x and a turn o opposite s left s twice x 
+walk o opposite s right x thrice x after a walk o around s left s twice x 
+look o around s left s thrice x and a turn o opposite s left s thrice x 
+run o around s left s after a walk o opposite s right x twice x 
+run o after a look o right x thrice x 
+run o opposite s left s twice x after a walk o right x thrice x 
+walk o right x twice x after a walk o right x thrice x 
+walk o left s thrice x and a turn o opposite s left s twice x 
+walk o around s right x twice x and a turn o left s twice x 
+walk o around s right x thrice x after a walk o around s right x twice x 
+run o around s left s twice x and a run o twice x 
+turn o left s twice x and a turn o left s thrice x 
+walk o left s and a turn o around s right x twice x 
+walk o right x and a turn o around s left s twice x 
+run o thrice x after a walk o left s thrice x 
+look o after a look o left s twice x 
+run o twice x after a look o opposite s left s 
+jump o 
+run o around s right x and a look o around s right x thrice x 
+look o opposite s right x thrice x and a look o around s right x thrice x 
+look o right x thrice x and a look o right x twice x 
+walk o around s left s after a turn o right x twice x 
+look o around s left s after a look o opposite s left s twice x 
+look o opposite s right x twice x and a walk o around s left s twice x 
+look o around s left s twice x after a run o around s right x twice x 
+walk o opposite s right x thrice x after a look o left s twice x 
+turn o left s twice x and a run o around s right x twice x 
+turn o opposite s right x twice x and a walk o opposite s left s thrice x 
+walk o around s left s after a run o right x 
+jump o 
+run o left s after a walk o around s right x twice x 
+turn o left s twice x after a run o opposite s right x thrice x 
+turn o right x thrice x after a run o thrice x 
+turn o opposite s right x thrice x and a turn o left s thrice x 
+turn o around s right x and a turn o around s right x twice x 
+jump o 
+run o opposite s left s thrice x and a look o around s left s thrice x 
+look o right x after a run o around s right x thrice x 
+look o opposite s left s twice x after a walk o thrice x 
+turn o left s twice x and a run o around s left s twice x 
+look o twice x after a turn o left s 
+look o right x twice x after a look o right x 
+run o opposite s right x thrice x and a turn o right x thrice x 
+walk o opposite s right x thrice x and a run o right x twice x 
+look o opposite s left s twice x and a walk o twice x 
+turn o around s right x twice x after a walk o around s right x twice x 
+run o left s after a walk o twice x 
+look o and a walk o right x thrice x 
+walk o left s and a turn o around s left s thrice x 
+walk o thrice x after a run o opposite s left s thrice x 
+run o opposite s right x thrice x after a walk o right x thrice x 
+walk o right x and a look o opposite s right x thrice x 
+run o left s thrice x and a turn o opposite s left s thrice x 
+run o thrice x after a look o around s left s thrice x 
+look o right x and a walk o around s left s twice x 
+walk o right x and a look o left s 
+turn o opposite s left s twice x and a walk o around s right x 
+look o and a look o thrice x 
+walk o left s thrice x and a walk o opposite s left s thrice x 
+look o opposite s left s twice x after a run o opposite s left s thrice x 
+jump o 
+run o left s after a look o around s right x twice x 
+walk o around s left s and a turn o opposite s left s thrice x 
+turn o opposite s left s and a walk o left s twice x 
+run o left s twice x and a look o around s left s 
+run o left s twice x and a turn o around s left s thrice x 
+walk o and a run o opposite s right x thrice x 
+turn o opposite s left s twice x and a run o around s right x thrice x 
+look o opposite s right x thrice x and a turn o left s twice x 
+look o around s left s thrice x and a run o opposite s right x thrice x 
+run o opposite s right x twice x and a look o opposite s left s twice x 
+look o right x thrice x and a turn o left s 
+run o around s right x twice x and a look o around s right x twice x 
+turn o opposite s left s twice x and a run o left s thrice x 
+look o around s right x twice x and a run o around s right x 
+walk o left s twice x and a run o around s right x 
+jump o 
+run o around s right x twice x after a walk o left s thrice x 
+walk o opposite s right x twice x and a turn o right x 
+turn o left s and a look o opposite s left s thrice x 
+jump o 
+look o twice x and a turn o opposite s right x 
+run o around s left s after a look o twice x 
+turn o around s left s after a look o right x twice x 
+look o twice x and a turn o around s right x thrice x 
+run o opposite s right x thrice x after a walk o around s right x 
+walk o left s and a walk o left s thrice x 
+look o thrice x after a turn o around s left s thrice x 
+look o left s thrice x after a run o opposite s right x 
+turn o around s right x twice x after a walk o around s left s 
+run o around s right x and a walk o opposite s right x twice x 
+look o left s thrice x after a walk o around s left s thrice x 
+turn o opposite s right x thrice x and a walk o left s thrice x 
+turn o around s right x after a look o around s left s 
+walk o opposite s left s twice x after a walk o left s twice x 
+walk o thrice x after a look o opposite s right x 
+jump o 
+turn o left s thrice x and a walk o opposite s right x twice x 
+run o left s thrice x and a run o left s twice x 
+walk o right x twice x and a walk o opposite s left s thrice x 
+run o left s after a walk o opposite s right x 
+turn o left s thrice x and a turn o around s right x twice x 
+walk o around s right x twice x after a walk o left s 
+run o around s left s thrice x after a turn o around s right x 
+walk o opposite s right x and a run o twice x 
+look o opposite s left s thrice x and a turn o opposite s right x 
+run o left s after a look o opposite s right x 
+jump o 
+run o opposite s left s after a run o 
+run o opposite s right x thrice x and a walk o opposite s right x thrice x 
+turn o right x and a run o twice x 
+look o left s thrice x and a run o around s right x thrice x 
+run o left s and a turn o around s right x 
+turn o around s left s twice x after a run o left s 
+turn o opposite s right x and a walk o around s left s 
+walk o around s left s thrice x and a run o 
+turn o left s twice x and a turn o right x twice x 
+run o right x thrice x and a look o opposite s right x 
+look o around s right x twice x and a turn o right x 
+turn o opposite s right x thrice x after a look o around s left s thrice x 
+walk o after a walk o opposite s right x 
+walk o opposite s right x twice x and a look o thrice x 
+look o left s thrice x and a walk o around s left s twice x 
+walk o opposite s right x after a walk o right x thrice x 
+walk o opposite s left s after a walk o 
+look o around s right x twice x and a run o opposite s left s 
+run o opposite s right x twice x and a run o around s left s thrice x 
+run o left s after a run o opposite s left s twice x 
+turn o opposite s left s twice x after a walk o opposite s left s 
+jump o 
+look o left s thrice x and a run o left s 
+walk o twice x after a walk o 
+turn o left s twice x and a look o opposite s left s twice x 
+turn o around s right x thrice x after a turn o around s left s twice x 
+look o opposite s right x and a look o opposite s right x thrice x 
+look o opposite s left s twice x after a look o around s right x 
+look o right x thrice x after a look o left s thrice x 
+walk o opposite s left s and a look o right x thrice x 
+turn o right x thrice x after a walk o opposite s right x thrice x 
+look o opposite s right x after a walk o around s left s twice x 
+run o right x after a turn o around s right x twice x 
+look o around s left s thrice x after a run o left s twice x 
+run o opposite s left s after a walk o left s thrice x 
+walk o opposite s right x thrice x after a walk o around s right x twice x 
+jump o 
+walk o right x twice x and a look o around s left s thrice x 
+turn o opposite s right x thrice x after a walk o thrice x 
+jump o 
+run o around s left s twice x after a walk o left s twice x 
+jump o 
+run o left s after a turn o right x 
+look o around s left s after a run o twice x 
+run o left s twice x after a walk o right x thrice x 
+turn o right x twice x after a run o left s thrice x 
+walk o opposite s left s thrice x and a run o around s left s 
+look o right x after a look o right x 
+look o right x and a look o opposite s right x 
+run o opposite s right x after a run o opposite s left s twice x 
+walk o right x thrice x after a walk o around s right x twice x 
+run o right x twice x and a look o right x thrice x 
+look o opposite s left s thrice x after a walk o around s right x 
+jump o 
+turn o around s right x twice x after a look o opposite s right x twice x 
+look o opposite s left s twice x and a run o right x thrice x 
+walk o twice x and a look o around s left s thrice x 
+turn o around s left s 
+walk o right x after a turn o opposite s right x 
+look o opposite s right x twice x and a look o right x thrice x 
+run o opposite s right x and a run o opposite s right x thrice x 
+run o left s thrice x after a run o around s left s 
+run o around s left s twice x after a turn o opposite s left s twice x 
+run o after a run o opposite s right x twice x 
+run o right x twice x after a walk o left s twice x 
+turn o around s right x after a look o opposite s left s 
+walk o opposite s left s twice x after a look o twice x 
+run o and a run o around s left s 
+run o opposite s left s twice x after a look o thrice x 
+walk o around s left s twice x after a walk o around s left s thrice x 
+look o around s left s after a look o opposite s left s thrice x 
+walk o left s thrice x and a turn o opposite s right x twice x 
+run o opposite s right x after a walk o around s left s thrice x 
+run o opposite s left s and a walk o opposite s right x 
+turn o opposite s right x thrice x and a run o left s 
+turn o around s right x twice x and a walk o left s thrice x 
+look o around s left s after a walk o opposite s right x 
+walk o opposite s left s thrice x after a look o right x 
+turn o left s thrice x and a run o right x 
+walk o around s left s after a turn o opposite s right x 
+run o opposite s right x after a run o right x twice x 
+run o right x thrice x after a run o opposite s right x 
+jump o 
+look o opposite s left s twice x after a walk o opposite s left s thrice x 
+look o thrice x after a walk o thrice x 
+jump o 
+walk o left s thrice x after a walk o left s thrice x 
+run o right x twice x and a walk o twice x 
+walk o around s right x and a run o opposite s left s thrice x 
+run o around s right x twice x and a turn o around s left s thrice x 
+walk o right x thrice x after a walk o opposite s left s thrice x 
+look o right x thrice x and a walk o around s right x thrice x 
+walk o opposite s right x thrice x after a run o opposite s left s 
+run o opposite s left s thrice x after a turn o left s 
+turn o around s right x thrice x and a turn o left s thrice x 
+look o right x thrice x and a run o twice x 
+run o after a run o right x thrice x 
+look o twice x after a run o opposite s left s twice x 
+look o right x and a run o opposite s left s twice x 
+run o left s twice x after a look o left s thrice x 
+look o opposite s left s twice x and a run o around s right x thrice x 
+look o right x twice x after a look o opposite s right x twice x 
+run o around s right x after a look o left s 
+turn o around s right x twice x and a run o around s right x twice x 
+jump o 
+turn o opposite s right x twice x after a run o left s thrice x 
+run o opposite s right x after a look o opposite s left s twice x 
+walk o around s left s twice x after a walk o opposite s left s twice x 
+jump o 
+turn o around s left s after a run o around s right x twice x 
+look o around s left s twice x after a run o right x thrice x 
+look o twice x after a turn o right x thrice x 
+run o left s thrice x and a look o right x 
+look o around s right x thrice x and a walk o opposite s left s twice x 
+walk o opposite s left s and a look o around s left s thrice x 
+run o left s twice x and a walk o opposite s left s 
+look o opposite s left s after a run o opposite s left s 
+walk o around s right x twice x after a run o right x thrice x 
+turn o opposite s right x thrice x after a walk o around s left s 
+turn o opposite s right x and a run o left s twice x 
+look o left s after a walk o 
+walk o around s right x and a look o left s twice x 
+walk o left s thrice x and a turn o opposite s right x 
+walk o opposite s left s thrice x after a look o opposite s right x twice x 
+jump o 
+turn o right x twice x and a walk o 
+walk o thrice x after a look o around s right x thrice x 
+turn o around s right x and a look o opposite s left s 
+run o thrice x after a turn o opposite s right x thrice x 
+walk o around s right x and a turn o opposite s right x 
+turn o opposite s right x thrice x and a walk o twice x 
+look o opposite s left s thrice x and a turn o around s left s thrice x 
+jump o 
+turn o opposite s right x twice x and a run o around s left s 
+walk o right x twice x after a run o opposite s left s twice x 
+run o right x twice x and a turn o left s twice x 
+jump o 
+run o thrice x after a turn o around s right x twice x 
+turn o opposite s left s after a run o left s twice x 
+run o right x twice x after a walk o 
+jump o 
+run o opposite s right x thrice x after a look o 
+walk o opposite s left s thrice x after a run o opposite s left s 
+turn o opposite s left s twice x after a look o right x twice x 
+walk o around s right x thrice x and a look o left s 
+run o thrice x and a run o opposite s right x thrice x 
+look o opposite s right x after a turn o opposite s right x thrice x 
+run o right x twice x and a turn o opposite s left s twice x 
+run o right x and a turn o around s left s thrice x 
+walk o right x thrice x after a run o opposite s right x thrice x 
+look o opposite s left s thrice x 
+look o right x twice x after a run o opposite s right x 
+look o after a walk o opposite s right x 
+look o around s right x thrice x after a walk o around s left s thrice x 
+run o left s twice x and a look o left s twice x 
+run o twice x after a walk o around s right x twice x 
+turn o right x thrice x after a look o 
+look o left s thrice x and a walk o opposite s right x twice x 
+turn o around s left s after a run o right x thrice x 
+jump o 
+turn o opposite s right x thrice x after a turn o around s left s twice x 
+look o left s twice x after a walk o 
+walk o around s right x thrice x after a look o thrice x 
+turn o left s twice x and a walk o around s right x thrice x 
+run o opposite s right x and a run o around s right x thrice x 
+run o opposite s left s twice x after a turn o around s left s thrice x 
+walk o right x after a run o around s left s 
+walk o opposite s right x and a look o around s right x twice x 
+turn o around s right x thrice x and a run o left s 
+turn o around s left s thrice x and a turn o left s 
+look o thrice x and a run o around s left s twice x 
+walk o thrice x and a turn o right x twice x 
+run o opposite s left s thrice x after a turn o opposite s right x twice x 
+walk o around s left s twice x and a look o opposite s left s twice x 
+look o opposite s right x thrice x after a look o right x 
+look o around s right x thrice x after a turn o right x 
+look o opposite s left s thrice x and a run o around s right x twice x 
+walk o opposite s left s thrice x after a run o twice x 
+look o opposite s left s and a look o opposite s right x 
+jump o 
+walk o around s right x twice x after a walk o opposite s right x 
+look o opposite s right x thrice x and a run o around s left s thrice x 
+look o left s thrice x and a turn o around s left s thrice x 
+run o opposite s left s twice x after a walk o around s left s twice x 
+turn o opposite s right x after a walk o 
+run o twice x and a run o opposite s right x twice x 
+turn o opposite s right x thrice x after a turn o opposite s left s 
+turn o left s thrice x after a look o opposite s left s twice x 
+jump o 
+look o opposite s left s after a look o around s right x thrice x 
+turn o around s right x thrice x after a run o around s right x thrice x 
+run o left s and a look o opposite s left s 
+run o right x and a run o around s right x thrice x 
+run o left s twice x after a run o left s thrice x 
+run o around s left s thrice x after a walk o opposite s right x twice x 
+jump o 
+walk o opposite s left s thrice x after a look o opposite s left s thrice x 
+look o left s thrice x after a turn o around s left s twice x 
+look o right x twice x after a look o opposite s right x 
+jump o 
+turn o opposite s right x twice x and a turn o around s left s 
+look o right x twice x and a run o left s 
+look o twice x and a turn o opposite s left s thrice x 
+run o and a turn o around s left s thrice x 
+run o after a walk o around s left s thrice x 
+turn o right x twice x after a look o twice x 
+look o around s left s after a walk o around s left s twice x 
+look o right x twice x and a turn o left s thrice x 
+jump o 
+run o right x thrice x and a look o around s right x thrice x 
+run o thrice x after a look o around s right x twice x 
+jump o 
+walk o opposite s right x thrice x and a walk o left s thrice x 
+turn o around s left s thrice x and a walk o opposite s right x twice x 
+turn o around s left s thrice x after a look o around s right x 
+look o right x thrice x and a run o left s twice x 
+run o right x twice x after a run o opposite s left s thrice x 
+jump o 
+walk o and a look o around s right x 
+turn o right x thrice x and a turn o left s 
+walk o left s and a run o right x 
+run o left s twice x after a look o thrice x 
+turn o around s left s after a walk o opposite s left s 
+turn o around s right x and a look o around s left s 
+turn o right x twice x and a run o opposite s left s thrice x 
+look o left s twice x after a walk o opposite s right x thrice x 
+look o right x thrice x after a turn o left s thrice x 
+run o around s left s thrice x after a run o right x thrice x 
+walk o right x thrice x and a look o opposite s left s 
+run o opposite s right x thrice x after a turn o around s right x twice x 
+run o opposite s right x and a run o 
+walk o left s twice x and a run o around s right x twice x 
+run o around s left s thrice x after a walk o around s left s 
+walk o around s right x thrice x after a run o opposite s right x twice x 
+turn o around s right x twice x and a turn o opposite s right x 
+run o opposite s left s and a turn o left s 
+walk o left s and a run o around s right x 
+look o left s thrice x after a run o left s twice x 
+walk o right x and a turn o around s left s 
+walk o twice x after a run o left s 
+run o after a run o opposite s right x 
+walk o right x thrice x and a look o around s left s twice x 
+look o opposite s left s twice x after a turn o right x 
+look o opposite s left s after a turn o around s left s 
+turn o left s after a walk o opposite s left s 
+look o right x twice x and a walk o opposite s left s 
+look o opposite s left s twice x and a turn o opposite s left s thrice x 
+turn o right x thrice x and a look o left s twice x 
+look o left s thrice x and a turn o around s right x 
+jump o 
+run o opposite s right x twice x after a run o around s left s twice x 
+walk o thrice x and a walk o around s right x twice x 
+turn o opposite s left s after a turn o right x 
+turn o opposite s right x thrice x after a walk o 
+walk o opposite s left s twice x and a walk o left s 
+walk o around s right x and a turn o right x 
+walk o around s right x thrice x after a turn o right x thrice x 
+walk o around s left s after a run o right x thrice x 
+jump o 
+look o twice x and a run o twice x 
+walk o opposite s right x twice x and a look o around s left s thrice x 
+run o opposite s left s after a turn o around s left s twice x 
+walk o left s and a turn o opposite s right x 
+look o around s left s thrice x after a walk o left s 
+turn o opposite s left s twice x and a look o around s left s thrice x 
+walk o around s right x twice x and a walk o around s right x thrice x 
+look o left s thrice x after a run o 
+run o thrice x and a walk o left s thrice x 
+look o opposite s right x after a turn o right x thrice x 
+run o opposite s right x twice x and a turn o around s right x 
+jump o 
+look o opposite s left s after a turn o opposite s right x thrice x 
+turn o opposite s right x twice x and a look o 
+jump o 
+turn o around s right x thrice x after a look o left s twice x 
+run o around s left s twice x and a turn o opposite s left s thrice x 
+walk o around s left s twice x after a run o left s thrice x 
+walk o around s left s twice x and a walk o left s twice x 
+turn o opposite s left s thrice x and a turn o left s thrice x 
+look o thrice x after a turn o opposite s left s 
+run o around s left s after a walk o right x 
+turn o around s right x and a look o around s right x thrice x 
+turn o around s right x and a walk o opposite s left s 
+look o left s twice x and a walk o around s left s 
+turn o around s right x twice x and a walk o left s 
+turn o opposite s right x twice x and a walk o left s thrice x 
+run o around s right x thrice x after a walk o opposite s right x thrice x 
+jump o 
+look o around s left s and a turn o around s left s thrice x 
+look o opposite s left s and a look o 
+walk o right x twice x after a turn o opposite s right x twice x 
+run o right x thrice x and a look o left s thrice x 
+jump o 
+look o after a run o opposite s left s twice x 
+turn o left s and a walk o thrice x 
+turn o opposite s left s thrice x and a look o opposite s right x twice x 
+turn o opposite s right x thrice x after a turn o around s left s thrice x 
+walk o opposite s left s and a walk o around s left s thrice x 
+run o opposite s left s after a turn o opposite s right x twice x 
+turn o opposite s right x after a run o 
+turn o opposite s right x thrice x and a run o opposite s right x twice x 
+turn o opposite s left s twice x after a turn o around s left s thrice x 
+walk o opposite s left s and a run o around s right x twice x 
+walk o opposite s left s and a turn o left s twice x 
+jump o 
+walk o right x twice x and a look o around s right x twice x 
+walk o left s and a walk o around s left s thrice x 
+run o around s left s twice x and a turn o opposite s left s twice x 
+walk o left s thrice x and a run o right x 
+jump o 
+look o right x thrice x and a run o around s left s 
+turn o opposite s left s and a run o right x thrice x 
+walk o left s twice x after a look o 
+run o right x twice x and a walk o around s right x twice x 
+look o left s and a walk o right x twice x 
+turn o right x thrice x and a look o around s left s thrice x 
+jump o 
+walk o opposite s right x thrice x and a run o right x thrice x 
+turn o left s thrice x after a look o right x twice x 
+walk o around s left s thrice x after a walk o opposite s right x 
+run o opposite s right x twice x after a walk o opposite s right x twice x 
+run o opposite s right x and a walk o thrice x 
+look o around s right x thrice x and a walk o 
+walk o around s right x twice x after a walk o opposite s left s thrice x 
+turn o opposite s left s twice x and a turn o around s right x twice x 
+turn o opposite s left s and a run o around s left s thrice x 
+turn o around s left s twice x and a look o around s right x 
+turn o opposite s right x and a look o around s right x thrice x 
+look o thrice x after a look o around s right x thrice x 
+run o opposite s right x and a turn o around s right x 
+run o opposite s left s thrice x after a turn o right x 
+run o twice x after a look o opposite s left s twice x 
+look o and a run o left s thrice x 
+run o opposite s left s thrice x and a turn o left s twice x 
+look o left s after a look o opposite s left s thrice x 
+walk o left s thrice x and a run o opposite s left s twice x 
+turn o left s after a walk o around s right x twice x 
+walk o and a turn o opposite s right x twice x 
+look o around s left s and a walk o opposite s left s 
+look o opposite s right x thrice x after a walk o opposite s right x twice x 
+run o left s after a turn o around s right x thrice x 
+turn o opposite s right x thrice x after a run o around s right x 
+turn o opposite s right x twice x and a walk o left s twice x 
+turn o opposite s left s after a turn o opposite s left s twice x 
+jump o 
+walk o around s left s after a look o opposite s left s twice x 
+walk o around s left s and a turn o right x 
+look o opposite s left s thrice x and a walk o around s left s 
+look o thrice x after a walk o right x 
+look o twice x after a turn o opposite s left s thrice x 
+run o around s left s twice x and a look o left s twice x 
+look o opposite s right x and a turn o opposite s right x twice x 
+run o around s left s and a walk o opposite s left s thrice x 
+walk o right x thrice x after a run o twice x 
+look o left s thrice x and a walk o opposite s right x thrice x 
+run o opposite s left s twice x and a look o opposite s left s 
+look o opposite s left s twice x and a turn o right x twice x 
+walk o around s right x twice x and a look o left s 
+look o opposite s left s thrice x and a look o opposite s left s 
+look o around s right x thrice x and a walk o thrice x 
+walk o around s right x twice x after a run o opposite s left s 
+look o left s and a walk o left s 
+turn o around s left s twice x after a run o 
+jump o 
+jump o 
+look o right x thrice x after a look o around s left s thrice x 
+jump o 
+turn o right x thrice x and a run o twice x 
+walk o opposite s right x and a walk o opposite s right x 
+turn o opposite s left s thrice x and a turn o around s right x thrice x 
+walk o twice x and a walk o right x 
+turn o right x thrice x and a walk o right x 
+turn o around s left s and a walk o left s 
+walk o left s thrice x after a turn o left s thrice x 
+run o right x after a look o around s right x thrice x 
+look o around s right x thrice x after a run o thrice x 
+run o around s left s after a turn o around s left s twice x 
+look o opposite s right x thrice x after a look o opposite s left s thrice x 
+walk o right x thrice x and a walk o opposite s right x thrice x 
+turn o around s left s twice x after a walk o opposite s left s thrice x 
+look o opposite s right x thrice x and a turn o opposite s left s twice x 
+look o right x twice x after a walk o opposite s left s 
+turn o right x twice x after a walk o opposite s left s thrice x 
+walk o around s right x twice x and a run o around s right x thrice x 
+walk o right x twice x after a run o left s 
+walk o right x thrice x and a run o around s right x 
+turn o opposite s right x and a look o opposite s left s thrice x 
+jump o 
+walk o left s thrice x and a run o right x thrice x 
+run o left s thrice x after a walk o opposite s right x twice x 
+walk o thrice x after a look o right x thrice x 
+look o left s thrice x and a walk o thrice x 
+walk o after a run o left s twice x 
+jump o 
+run o opposite s right x thrice x after a walk o opposite s left s twice x 
+walk o left s thrice x after a walk o thrice x 
+look o opposite s right x after a run o left s thrice x 
+turn o left s twice x after a look o right x 
+walk o opposite s right x twice x after a turn o around s left s 
+look o around s left s thrice x after a look o opposite s left s twice x 
+walk o right x twice x and a look o opposite s left s twice x 
+look o left s twice x and a walk o opposite s right x 
+walk o opposite s left s twice x and a turn o right x thrice x 
+walk o twice x after a look o left s thrice x 
+run o left s twice x after a look o around s left s thrice x 
+run o twice x and a run o opposite s left s twice x 
+walk o opposite s left s thrice x and a look o left s thrice x 
+look o around s right x thrice x after a walk o 
+look o around s right x twice x and a turn o left s 
+turn o opposite s right x and a look o left s thrice x 
+walk o opposite s left s and a look o opposite s right x twice x 
+run o around s left s thrice x after a walk o twice x 
+walk o right x twice x and a turn o around s right x 
+walk o around s left s thrice x after a walk o around s right x 
+run o right x and a run o right x thrice x 
+turn o around s right x thrice x after a turn o opposite s left s 
+look o and a look o around s right x thrice x 
+turn o around s left s twice x after a look o around s right x thrice x 
+run o thrice x and a turn o opposite s left s 
+run o left s twice x after a look o opposite s left s twice x 
+jump o 
+run o after a look o around s left s twice x 
+look o around s left s after a walk o opposite s right x twice x 
+jump o 
+look o opposite s right x and a walk o 
+walk o opposite s right x twice x after a walk o right x 
+turn o around s right x after a run o right x 
+run o thrice x after a run o around s left s twice x 
+run o around s left s thrice x and a run o opposite s left s thrice x 
+run o around s right x twice x and a walk o around s left s 
+run o around s right x thrice x after a turn o opposite s left s 
+turn o right x thrice x after a run o opposite s right x twice x 
+walk o opposite s left s after a run o left s thrice x 
+walk o opposite s right x twice x and a walk o left s twice x 
+look o thrice x after a look o around s left s thrice x 
+turn o around s left s twice x and a walk o left s twice x 
+look o left s after a look o opposite s right x thrice x 
+look o opposite s right x twice x and a turn o opposite s right x 
+look o opposite s left s thrice x and a look o around s right x twice x 
+look o opposite s right x and a walk o right x thrice x 
+jump o 
+jump o 
+look o opposite s left s twice x after a run o 
+run o right x and a look o twice x 
+run o right x twice x after a walk o opposite s left s thrice x 
+run o around s left s twice x and a look o around s left s 
+run o twice x and a run o thrice x 
+walk o around s right x twice x after a walk o opposite s left s twice x 
+run o opposite s right x thrice x after a turn o opposite s left s twice x 
+walk o opposite s left s thrice x after a walk o opposite s left s thrice x 
+run o around s left s thrice x after a run o around s right x twice x 
+turn o left s thrice x after a run o right x twice x 
+look o right x thrice x after a walk o opposite s left s thrice x 
+walk o left s thrice x and a walk o around s left s twice x 
+jump o 
+look o left s thrice x and a run o around s left s thrice x 
+jump o 
+look o left s thrice x and a walk o left s twice x 
+run o opposite s right x thrice x and a run o opposite s left s 
+walk o left s twice x and a run o opposite s left s twice x 
+jump o 
+walk o opposite s left s after a look o left s 
+run o twice x after a look o right x twice x 
+walk o around s left s twice x and a look o opposite s right x twice x 
+turn o left s after a look o right x 
+run o around s right x after a look o around s right x 
+jump o 
+look o opposite s left s twice x after a walk o opposite s right x thrice x 
+turn o around s right x thrice x after a turn o opposite s right x thrice x 
+look o thrice x and a run o 
+turn o opposite s right x twice x and a look o opposite s left s thrice x 
+run o opposite s right x twice x after a turn o around s left s thrice x 
+look o left s twice x after a turn o around s right x thrice x 
+look o opposite s left s twice x and a turn o left s thrice x 
+walk o opposite s right x twice x and a look o left s thrice x 
+run o after a walk o 
+look o opposite s right x thrice x and a walk o left s 
+walk o around s right x and a walk o around s left s twice x 
+walk o right x twice x after a look o left s thrice x 
+look o right x after a run o opposite s right x twice x 
+walk o around s left s twice x and a turn o opposite s right x twice x 
+walk o left s twice x after a run o 
+turn o right x twice x after a turn o around s right x thrice x 
+jump o 
+look o left s after a turn o opposite s left s twice x 
+look o opposite s right x twice x after a run o 
+look o around s left s and a walk o right x 
+walk o left s after a walk o opposite s right x thrice x 
+look o left s twice x and a run o right x thrice x 
+jump o 
+run o right x after a turn o left s 
+look o around s right x thrice x and a look o 
+turn o left s and a run o opposite s right x thrice x 
+walk o left s twice x after a run o twice x 
+turn o right x thrice x after a look o opposite s left s 
+walk o around s right x after a look o around s left s twice x 
+run o around s left s twice x after a look o right x 
+run o thrice x and a run o around s right x thrice x 
+run o opposite s left s thrice x and a run o around s left s thrice x 
+run o opposite s left s thrice x after a turn o around s left s twice x 
+run o thrice x after a walk o around s right x twice x 
+run o around s right x after a run o around s left s twice x 
+jump o 
+run o and a run o thrice x 
+run o left s twice x and a run o around s left s thrice x 
+turn o opposite s left s twice x and a walk o opposite s right x 
+turn o opposite s right x and a look o opposite s right x 
+jump o 
+look o opposite s right x thrice x after a run o around s right x twice x 
+run o left s thrice x after a turn o around s left s twice x 
+look o opposite s left s twice x and a look o opposite s left s 
+run o thrice x after a look o twice x 
+look o opposite s right x thrice x and a walk o around s left s 
+walk o around s left s and a look o around s right x twice x 
+walk o opposite s right x twice x after a walk o right x twice x 
+jump o 
+turn o right x and a look o 
+jump o 
+look o left s twice x and a run o left s twice x 
+turn o around s left s after a turn o right x twice x 
+walk o around s right x after a run o opposite s right x twice x 
+look o around s right x twice x after a run o left s 
+turn o around s left s thrice x and a look o opposite s right x 
+jump o 
+look o opposite s right x and a walk o opposite s left s 
+turn o around s right x twice x after a look o right x twice x 
+walk o opposite s left s twice x after a walk o around s right x thrice x 
+run o right x thrice x and a walk o left s thrice x 
+jump o 
+turn o opposite s left s twice x after a run o 
+walk o opposite s right x thrice x after a turn o left s 
+turn o around s right x after a turn o left s thrice x 
+jump o 
+turn o around s left s twice x and a look o thrice x 
+look o around s right x twice x after a turn o left s 
+walk o around s left s and a turn o left s 
+turn o opposite s right x after a turn o opposite s left s 
+walk o around s right x and a turn o opposite s left s twice x 
+turn o opposite s right x thrice x after a turn o left s twice x 
+turn o around s right x after a turn o opposite s left s thrice x 
+turn o right x twice x after a run o right x twice x 
+run o opposite s left s and a turn o right x twice x 
+walk o opposite s right x thrice x and a look o opposite s left s 
+turn o right x twice x after a look o around s right x thrice x 
+turn o around s right x thrice x after a turn o opposite s right x 
+look o thrice x after a run o around s right x twice x 
+run o opposite s left s twice x after a run o twice x 
+walk o right x after a walk o left s thrice x 
+turn o opposite s right x and a walk o 
+look o around s left s twice x after a walk o opposite s left s 
+turn o around s right x thrice x after a run o left s 
+turn o right x twice x and a look o opposite s right x 
+turn o around s left s twice x after a look o right x 
+look o left s thrice x and a look o left s thrice x 
+look o opposite s right x twice x and a run o left s 
+run o around s right x thrice x after a look o left s twice x 
+run o around s right x thrice x and a turn o around s left s 
+walk o right x thrice x and a look o right x thrice x 
+walk o right x and a look o right x twice x 
+look o opposite s right x thrice x and a run o 
+look o thrice x after a run o left s 
+walk o thrice x after a look o twice x 
+run o left s thrice x after a look o opposite s right x thrice x 
+walk o around s left s thrice x and a run o around s left s twice x 

@@ -1,9 +1,10 @@
 # Utilities for dealing with SCAN dataset
 
 import os
-from torchtext.legacy import data, datasets
-from torchtext.legacy.data import Field, BucketIterator
-from torchtext.legacy.datasets import TranslationDataset
+# CHANGE MADE BY LOIS: REMOVED LEGACY
+from torchtext import data, datasets
+from torchtext.data import Field, BucketIterator
+from torchtext.datasets import TranslationDataset
 
 
 def build_scan(split, batch_size, device):
@@ -36,9 +37,25 @@ def build_scan(split, batch_size, device):
         path = 'data/scan/churny/'
     elif split == 'churny_nacs':
         path = 'data/nacs/churny/'
+    elif split == 'split1_scan':
+        path = 'data/scan/split1/'
+    elif split == 'split2_scan':
+        path = 'data/scan/split2/'
+    elif split == 'jumpo_scan':
+        path = 'data/scan/jumpo/'
+    elif split == 'uniquesuffix_scan':
+        path = 'data/scan/uniquesuffix/'
+    elif split == 'split1_nacs':
+        path = 'data/nacs/split1/'
+    elif split == 'split2_nacs':
+        path = 'data/nacs/split2/'
+    elif split == 'jumpo_nacs':
+        path = 'data/nacs/jumpo/'
+    elif split == 'uniquesuffix_nacs':
+        path = 'data/nacs/uniquesuffix/'
     else:
         assert split not in ['simple_scan','addjump_scan',
-        'simple_nacs','addjump_nacs', 'addleft_scan', 'length_nacs', 'length_scan'], "Unknown split"
+        'simple_nacs','addjump_nacs', 'addleft_scan', 'length_nacs', 'length_scan', 'split1_scan', 'split2_scan', 'jumpo_scan', 'uniquesuffix_scan', 'split1_nacs', 'split2_nacs', 'jumpo_nacs', 'uniquesuffix_nacs'], "Unknown split"
     train_path = os.path.join(path,'train')
     dev_path = os.path.join(path,'dev')
     test_path = os.path.join(path,'test')
