@@ -106,8 +106,9 @@ def train(run,args):
 
             # Save model weights
             if run == 0: #first run only
-                if dev_acc > best_dev_acc: # use dev to decide to save
-                    best_dev_acc = dev_acc
+                # changed by LOIS to overlap instead of acc
+                if dev_acc[1] > best_dev_acc: # use dev to decide to save
+                    best_dev_acc = dev_acc[1]
                     if args.checkpoint_path is not None:
                         torch.save(model.state_dict(),
                                    args.checkpoint_path)

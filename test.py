@@ -1,15 +1,35 @@
 # Function for testing models
 
+from ctypes.wintypes import tagRECT
 import numpy as np
+from sklearn.compose import TransformedTargetRegressor
 import torch
+from nltk.translate.bleu_score import sentence_bleu
 
 def test(data, model, pad_idx, device, args):
     model.eval()
     with torch.no_grad():
         all_correct_trials = [] # list of booleans indicating whether correct
+        all_correct_words = []
         for batch in data:
             out, attn_wts = model(batch.src, batch.trg)
             preds = torch.argmax(out,dim=2).roll(1,0)
+            
+            for i, item in enumerate(batch.trg):
+                for j, word in enumerate(item):
+                    word_target = item[j]
+                    word_prediction = preds[i][j]
+                    correct = (word_target == word_prediction)
+                    all_correct_words.append(correct)
+
+
+                
+                
+
+                
+            
+            
+
             correct_pred = preds == batch.trg
             correct_pred = correct_pred.cpu().numpy()
             mask = batch.trg == pad_idx # mask out padding
@@ -19,5 +39,6 @@ def test(data, model, pad_idx, device, args):
             all_correct_trials += correct
     
     accuracy = np.mean(all_correct_trials)
+    overlap = np.mean(all_correct_words)
     model.train()
-    return accuracy
+    return accuracy, overlap
