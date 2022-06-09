@@ -9,7 +9,7 @@ def test(data, model, pad_idx, device, args):
         all_correct_trials = [] # list of booleans indicating whether correct
         for batch in data:
             out, attn_wts = model(batch.src, batch.trg)
-            preds = torch.argmax(out,dim=2)
+            preds = torch.argmax(out,dim=2).roll(1,0)
             correct_pred = preds == batch.trg
             correct_pred = correct_pred.cpu().numpy()
             mask = batch.trg == pad_idx # mask out padding
