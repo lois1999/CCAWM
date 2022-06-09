@@ -22,20 +22,13 @@ def test(data, model, pad_idx, device, args):
                     correct = (word_target == word_prediction)
                     all_correct_words.append(correct)
 
-
-                
-                
-
-                
-            
-            
-
             correct_pred = preds == batch.trg
             correct_pred = correct_pred.cpu().numpy()
             mask = batch.trg == pad_idx # mask out padding
             mask = mask.cpu().numpy()
             correct = np.logical_or(mask,correct_pred)
-            correct = correct.all(0).tolist()
+            # CHANGED TO 1 by LOIS: SHOULD COUNT ALL TRUES AND NOT ALL FALSES 
+            correct = correct.all(1).tolist()
             all_correct_trials += correct
     
     accuracy = np.mean(all_correct_trials)
