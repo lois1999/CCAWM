@@ -1,10 +1,8 @@
 # Function for testing models
 
-from ctypes.wintypes import tagRECT
 import numpy as np
 from sklearn.compose import TransformedTargetRegressor
 import torch
-from nltk.translate.bleu_score import sentence_bleu
 
 def test(data, model, pad_idx, device, args):
     model.eval()
