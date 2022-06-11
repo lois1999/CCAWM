@@ -1,7 +1,23 @@
 # Main script for gathering args, running train
 
 import argparse
+from collections import defaultdict
+import itertools
+from numba import jit, cuda
+
 from train import train
+
+# Needed for parameter search
+class Namespace:
+    def __init__(self, **kwargs):
+        self.__dict__.update(kwargs)
+
+# Needed for parameter search
+def makeGrid(pars_dict):  
+    keys=pars_dict.keys()
+    combinations=itertools.product(*pars_dict.values())
+    ds=[dict(zip(keys,cc)) for cc in combinations]
+    return ds
 
 parser = argparse.ArgumentParser()
 # Training data
@@ -54,11 +70,50 @@ parser.add_argument('--checkpoint_every', type=int, default=1,
 parser.add_argument('--record_loss_every', type=int, default=20,
                     help='iters before printing and recording loss')
 
+@jit(target_backend ="cuda")      
 def main(args):
     for run in range(args.num_runs):
-        train(run,args)
+        return train(run,args)
 
 if __name__ == '__main__':
-    args = parser.parse_args()
-    print(args)
-    main(args)
+
+    params = {"--dim_feedforward": [32, 64, 128, 256],
+    "--dropout": [0.01, 0.04, 0.08, 0.2, 0.3],
+    "--learning_rate": [0.001, 0.005, 0.01, 0.02, 0.03, 0.04, 0.05]}
+
+    params2 = {"--batch_size": [64, 128, 256], 
+    "--num_encoder_layers": [2, 4, 8], 
+    "--num_decoder_layers": [2, 4, 8],
+    "--dim_feedforward": [15, 20, 25, 30, 35],
+    "--learning_rate": [0.001, 0.003, 0.005]}
+
+    grid = makeGrid(params)
+    print(len(grid))
+    accs = defaultdict()
+
+    for search in grid:
+        print(search)
+        args = Namespace(batch_size = 64,
+        d_model = 12, 
+        nhead = 2, 
+        num_encoder_layers = 2, 
+        num_decoder_layers = 2,
+        dim_feedforward = search["--dim_feedforward"],
+        dropout = search["--dropout"],
+        learning_rate = search["--learning_rate"],
+        num_runs = 1,
+        split = "simple_scan", 
+        model_type = "transformer",
+        load_weights_from = None,
+        num_epochs = 40,
+        record_loss_every = 20, 
+        checkpoint_every = 1,
+        results_dir = "transformer",
+        out_data_file = "simple_scan_search",
+        checkpoint_path = None)
+        acc = main(args)
+        accs[args] = acc
+    print(accs)
+    #args = parser.parse_args()
+
+    #main(args)

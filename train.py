@@ -60,7 +60,7 @@ def train(run,args):
         for iter,batch in enumerate(train_data):
             optimizer.zero_grad()
             out, attn_wts = model(batch.src,batch.trg)
-            loss = loss_fn(out.view(-1,trg_vocab_size),batch.trg.roll(-1, 0).view(-1))
+            loss = loss_fn(out.view(-1,trg_vocab_size),(batch.trg).roll(-1, 0).view(-1))
             loss.backward()
             optimizer.step()
             # Record loss
