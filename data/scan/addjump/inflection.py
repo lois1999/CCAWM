@@ -2,7 +2,7 @@ split1_train = open("split1_train.SRC", "w")
 split1_dev = open("split1_dev.SRC", "w")
 split1_test = open("split1_test.SRC", "w")
 
-inflection1 = {'left': ' s', 'twice': ' x', 'thrice': ' x', 'right': ' x', 'walk': ' o', 'look': ' o', 'turn': ' o', 'jump': ' o', 'run': ' o', 'and': ' a', 'after': ' a', 'around': ' s', 'opposite': ' s'}
+inflection1 = {'left': ' s', 'twice': ' x', 'thrice': ' x', 'right': ' s', 'walk': ' o', 'look': ' o', 'turn': ' o', 'jump': ' o', 'run': ' o', 'and': ' a', 'after': ' a', 'around': ' s', 'opposite': ' s'}
 
 
 train = open("train.SRC", "r")
@@ -53,7 +53,7 @@ split2_train = open("split2_train.SRC", "w")
 split2_dev = open("split2_dev.SRC", "w")
 split2_test = open("split2_test.SRC", "w")
 
-inflection2 = {'left': ' s', 'twice': ' x', 'thrice': ' x', 'right': ' x', 'walk': ' a', 'look': ' o', 'turn': ' o', 'jump': ' o', 'run': ' s', 'and': ' a', 'after': ' a', 'around': ' s', 'opposite': ' s'}
+inflection2 = {'left': ' s', 'twice': ' x', 'thrice': ' x', 'right': ' s', 'walk': ' a', 'look': ' o', 'turn': ' o', 'jump': ' o', 'run': ' s', 'and': ' a', 'after': ' a', 'around': ' s', 'opposite': ' s'}
 
 for line in train:
     words_train = []
