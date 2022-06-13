@@ -2,7 +2,6 @@
 
 import argparse
 import itertools
-from numba import jit, cuda
 from train import train
 
 parser = argparse.ArgumentParser()
@@ -55,8 +54,7 @@ parser.add_argument('--checkpoint_every', type=int, default=1,
                     help='Epochs before evaluating model and saving weights')
 parser.add_argument('--record_loss_every', type=int, default=20,
                     help='iters before printing and recording loss')
-
-@jit(target_backend ="cuda")   
+  
 def main(args):
     #print(args.num_runs)
     for run in range(args.num_runs):
