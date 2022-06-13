@@ -13,7 +13,7 @@ parser.add_argument('--split',
                      , 'addleft_removedleft_scan', 'addleft_removedleft_nacs'
                      , 'addx_scan', 'addx_nacs', 'churny_scan', 'churny_nacs', 'split1_scan', 
                      'split2_scan', 'jumpo_scan', 'uniquesuffix_scan', 'split1_nacs', 
-                     'split2_nacs', 'jumpo_nacs', 'uniquesuffix_nacs'],
+                     'split2_nacs', 'jumpo_nacs', 'uniquesuffix_nacs', 'verbarg_scan', 'verbarg_nacs', 'simplesplit1_scan'],
                     help='SCAN split to use for training and testing')
 parser.add_argument('--num_runs', type=int, default=10,
                     help='Number of runs to do.')

@@ -53,9 +53,15 @@ def build_scan(split, batch_size, device):
         path = 'data/nacs/jumpo/'
     elif split == 'uniquesuffix_nacs':
         path = 'data/nacs/uniquesuffix/'
+    elif split == 'verbarg_nacs':
+        path = 'data/nacs/verbarg/'
+    elif split == 'verbarg_scan':
+        path = 'data/scan/verbarg/'
+    elif split == 'simplesplit1_scan':
+        path = 'data/scan/simplesplit1/'
     else:
         assert split not in ['simple_scan','addjump_scan',
-        'simple_nacs','addjump_nacs', 'addleft_scan', 'length_nacs', 'length_scan', 'split1_scan', 'split2_scan', 'jumpo_scan', 'uniquesuffix_scan', 'split1_nacs', 'split2_nacs', 'jumpo_nacs', 'uniquesuffix_nacs'], "Unknown split"
+        'simple_nacs','addjump_nacs', 'addleft_scan', 'length_nacs', 'length_scan', 'split1_scan', 'split2_scan', 'jumpo_scan', 'uniquesuffix_scan', 'split1_nacs', 'split2_nacs', 'jumpo_nacs', 'uniquesuffix_nacs', 'verbarg_scan', 'verbarg_nacs', 'simplesplit1_scan'], "Unknown split"
     train_path = os.path.join(path,'train')
     dev_path = os.path.join(path,'dev')
     test_path = os.path.join(path,'test')

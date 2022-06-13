@@ -15,7 +15,7 @@ def test(data, model, pad_idx, device, args):
             
             for i, item in enumerate(batch.trg):
                 for j, word in enumerate(item):
-                    word_target = item[j]
+                    word_target = word
                     word_prediction = preds[i][j]
                     correct = (word_target == word_prediction)
                     all_correct_words.append(correct)
