@@ -16,9 +16,12 @@ def test(data, model, pad_idx, device, args):
             for i, item in enumerate(batch.trg):
                 for j, word in enumerate(item):
                     word_target = word
-                    word_prediction = preds[i][j]
-                    correct = (word_target == word_prediction)
-                    all_correct_words.append(correct)
+                    if word_target == 1: # dont take into account padding
+                        continue
+                    else:
+                        word_prediction = preds[i][j]
+                        correct = (word_target == word_prediction)
+                        all_correct_words.append(correct)
 
             correct_pred = preds == batch.trg
             correct_pred = correct_pred.cpu().numpy()

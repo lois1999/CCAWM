@@ -92,7 +92,7 @@ def train(run,args):
             print("Test accuracy is ", test_acc)
             test_accs.append(test_acc)
 
-            # Write stats file
+            #Write stats file
             results_path = 'results/%s' % (args.results_dir)
             if not os.path.isdir(results_path):
                 os.mkdir(results_path)
@@ -107,8 +107,8 @@ def train(run,args):
             # Save model weights
             if run == 0: #first run only
                 # changed by LOIS
-                if dev_acc[0] > best_dev_acc: # use dev to decide to save
-                    best_dev_acc = dev_acc[0]
+                if dev_acc[1] > best_dev_acc: # use dev to decide to save
+                    best_dev_acc = dev_acc[1]
                     if args.checkpoint_path is not None:
                         torch.save(model.state_dict(),
                                    args.checkpoint_path)

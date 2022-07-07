@@ -59,9 +59,16 @@ def build_scan(split, batch_size, device):
         path = 'data/scan/verbarg/'
     elif split == 'simplesplit1_scan':
         path = 'data/scan/simplesplit1/'
+    elif split == 'simplesplit1_nacs':
+        path = 'data/nacs/simplesplit1/'
     else:
         assert split not in ['simple_scan','addjump_scan',
-        'simple_nacs','addjump_nacs', 'addleft_scan', 'length_nacs', 'length_scan', 'split1_scan', 'split2_scan', 'jumpo_scan', 'uniquesuffix_scan', 'split1_nacs', 'split2_nacs', 'jumpo_nacs', 'uniquesuffix_nacs', 'verbarg_scan', 'verbarg_nacs', 'simplesplit1_scan'], "Unknown split"
+        'simple_nacs','addjump_nacs', 'addleft_scan', 'addx_scan', 
+        'addx_nacs', 'churny_scan', 'churny_nacs', 'length_nacs', 
+        'length_scan', 'split1_scan', 'split2_scan', 'jumpo_scan', 
+        'uniquesuffix_scan', 'split1_nacs', 'split2_nacs', 'jumpo_nacs', 
+        'uniquesuffix_nacs', 'verbarg_scan', 'verbarg_nacs', 'simplesplit1_scan', 
+        'simplesplit1_nacs'], "Unknown split"
     train_path = os.path.join(path,'train')
     dev_path = os.path.join(path,'dev')
     test_path = os.path.join(path,'test')
