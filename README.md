@@ -17,6 +17,7 @@ SCAN dataset: https://arxiv.org/abs/1711.00350
   * data (all data used in experiments)
     * scan (SCAN task)
       * addjump 		(systematic generalization split)
+        * inflection.py (script for generating the data for the additional splits (split 1, split 2, -o, etc.))
       * addleft 		(systematic generalization split)
       * addleft_removedleft	(split to check whether the "TURN LEFT" command was used by the model)
       * addx			  (replaced "left" with "x")
