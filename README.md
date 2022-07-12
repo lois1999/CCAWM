@@ -73,7 +73,7 @@ conda install -c pytorch torchtext==0.6.0
 pip3 install torchtext==0.6.0
 ```
 
-The complete list of requirments are in requirements.txt. The most important dependencies are already listed above.
+The complete list of requirements are in requirements.txt. The most important dependencies are already listed above.
 
 ### To run (example):
 Simple SCAN split:
